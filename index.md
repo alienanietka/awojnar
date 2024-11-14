@@ -1,28 +1,30 @@
 ---
 layout: default
-title: Aneta Wojnar
+title: "Aneta Wojnar - Homepage"
 ---
 
-# Welcome to My Research Page
+<div style="display: flex; justify-content: space-between; gap: 30px;">
 
-## About Me
-I am an assistant professor at the University of Wrocław and a research fellow at Complutense University of Madrid. My research focuses on fundamental physics, seismology, and gravitational effects.
+  <!-- Left Column: Your photo and brief introduction -->
+  <div style="flex: 0 0 48%;">
 
-## Projects
-- **FuSe Project**: A collaborative project involving universities, research institutions, and startups focused on earthquake forecasting and gravitational wave research.
-- **ELGAR Consortium**: Collaboration between geophysicists and optical physicists.
+    <h2>About Me</h2>
+    <img src="/assets/images/your-photo.jpg" alt="Your photo" style="width: 100%; max-width: 300px; border-radius: 50%;">
+    <p>
+      I am a professor assistant at the University of Wrocław and a research fellow at Complutense University of Madrid. My research focuses on seismology, gravitational waves, and geophysics.
+    </p>
 
-## Publications
-A curated list of my recent research papers and publications. [Link to full list of publications]
+  </div>
 
-## Collaborations
-Details about my collaborations with various research institutions and experimental facilities like Borexino, KamLAND, and the Einstein Telescope.
+  <!-- Right Column: News/Updates Section -->
+  <div style="flex: 0 0 48%;">
 
-## Trainingship for Students
-Opportunities for students interested in research internships in physics, seismology, and gravitational studies. [More details coming soon]
+    <h2>News & Updates</h2>
+    <ul>
+      <li><a href="/posts/2024-11-14-first-update.html">First update: Research progress in seismic studies</a></li>
+      <li><a href="/posts/2024-11-21-second-update.html">New publication on gravitational waves</a></li>
+    </ul>
 
-## Post-doc Position
-Information about post-doctoral opportunities and research positions in my projects. [More details coming soon]
+  </div>
 
-## Updates
-Weekly updates on my research progress and news. [Go to updates section]
+</div>
