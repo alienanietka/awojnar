@@ -1,3 +1,4 @@
+baseurl: "/awojnar" # Tylko, jeśli repozytorium jest w folderze, a nie głównym katalogu.
 theme: jekyll-theme-slate
 navigation:
   - title: "Home"
