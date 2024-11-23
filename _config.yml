@@ -1,25 +1,6 @@
-# theme: jekyll-theme-slate
-# baseurl: ""  # Ustawienie puste, jeśli strona jest w katalogu głównym repozytorium
-# url: "https://alienanietka.github.io"  # Główna strona URL Twojego repozytorium
-# navigation:
-#   - title: "Home"
-#     url: "{{ site.baseurl }}/"
-#   - title: "News"
-#     url: "{{ site.baseurl }}/news/"
-#   - title: "Group"
-#     url: "{{ site.baseurl }}/group/"
-#   - title: "Research"
-#     url: "{{ site.baseurl }}/research/"
-#   - title: "Women in Science"
-#     url: "{{ site.baseurl }}/women-in-science/"
-#   - title: "Books for Children"
-#     url: "{{ site.baseurl }}/books-for-children/"
-#   - title: "Positions"
-#     url: "{{ site.baseurl }}/positions/"
-
 theme: jekyll-theme-slate
-url: "https://alienanietka.github.io"  # Ustaw prawidłowy URL repozytorium
-baseurl: ""  # Puste, ponieważ strona nie znajduje się w podkatalogu
+baseurl: ""  # Pusta, jeśli strona jest w katalogu głównym repozytorium
+url: "https://alienanietka.github.io"  # Twój URL strony
 
 navigation:
   - title: "Home"
