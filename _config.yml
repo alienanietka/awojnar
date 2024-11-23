@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
+baseurl: "/awojnar"  # Tylko jeśli repozytorium ma nazwę 'awojnar' i jest to subfolder w URL
+url: "https://alienanietka.github.io"  # Twoje główne URL repozytorium
 navigation:
   - title: "Home"
     url: "/"
