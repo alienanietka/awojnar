@@ -18,6 +18,15 @@ title: "Aneta Wojnar - Homepage"
     <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
       <a href="/research/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Research</a>
     </li>
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+      <a href="/women-in-science/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Women in Science</a>
+    </li>
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+      <a href="/books-for-children/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Books for Children</a>
+    </li>
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+      <a href="/positions/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Positions</a>
+    </li>
   </ul>
 </nav>
 
