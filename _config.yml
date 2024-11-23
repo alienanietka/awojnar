@@ -1,18 +1,38 @@
+# theme: jekyll-theme-slate
+# baseurl: ""  # Ustawienie puste, jeśli strona jest w katalogu głównym repozytorium
+# url: "https://alienanietka.github.io"  # Główna strona URL Twojego repozytorium
+# navigation:
+#   - title: "Home"
+#     url: "{{ site.baseurl }}/"
+#   - title: "News"
+#     url: "{{ site.baseurl }}/news/"
+#   - title: "Group"
+#     url: "{{ site.baseurl }}/group/"
+#   - title: "Research"
+#     url: "{{ site.baseurl }}/research/"
+#   - title: "Women in Science"
+#     url: "{{ site.baseurl }}/women-in-science/"
+#   - title: "Books for Children"
+#     url: "{{ site.baseurl }}/books-for-children/"
+#   - title: "Positions"
+#     url: "{{ site.baseurl }}/positions/"
+
 theme: jekyll-theme-slate
-baseurl: ""  # Ustawienie puste, jeśli strona jest w katalogu głównym repozytorium
-url: "https://alienanietka.github.io"  # Główna strona URL Twojego repozytorium
+url: "https://alienanietka.github.io"  # Ustaw prawidłowy URL repozytorium
+baseurl: ""  # Puste, ponieważ strona nie znajduje się w podkatalogu
+
 navigation:
   - title: "Home"
-    url: "{{ site.baseurl }}/"
+    url: "/"
   - title: "News"
-    url: "{{ site.baseurl }}/news/"
+    url: "/news/"
   - title: "Group"
-    url: "{{ site.baseurl }}/group/"
+    url: "/group/"
   - title: "Research"
-    url: "{{ site.baseurl }}/research/"
+    url: "/research/"
   - title: "Women in Science"
-    url: "{{ site.baseurl }}/women-in-science/"
+    url: "/women-in-science/"
   - title: "Books for Children"
-    url: "{{ site.baseurl }}/books-for-children/"
+    url: "/books-for-children/"
   - title: "Positions"
-    url: "{{ site.baseurl }}/positions/"
+    url: "/positions/"
