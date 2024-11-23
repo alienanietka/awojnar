@@ -1,6 +1,6 @@
 nav ul {
   display: flex;
-  justify-content: center;  /* bylo space-around   */
+  justify-content: space-around;  /* bylo space-around   */
   list-style-type: none;
   margin: 0;
   padding: 0;
