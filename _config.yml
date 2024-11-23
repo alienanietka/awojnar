@@ -1,12 +1,18 @@
 theme: jekyll-theme-slate
-baseurl: "/awojnar"  # Tylko jeśli repozytorium ma nazwę 'awojnar' i jest to subfolder w URL
-url: "https://alienanietka.github.io"  # Twoje główne URL repozytorium
+baseurl: ""  # Ustawienie puste, jeśli strona jest w katalogu głównym repozytorium
+url: "https://alienanietka.github.io"  # Główna strona URL Twojego repozytorium
 navigation:
   - title: "Home"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - title: "News"
-    url: "/news/"
+    url: "{{ site.baseurl }}/news/"
   - title: "Group"
-    url: "/group/"
+    url: "{{ site.baseurl }}/group/"
   - title: "Research"
-    url: "/research/"
+    url: "{{ site.baseurl }}/research/"
+  - title: "Women in Science"
+    url: "{{ site.baseurl }}/women-in-science/"
+  - title: "Books for Children"
+    url: "{{ site.baseurl }}/books-for-children/"
+  - title: "Positions"
+    url: "{{ site.baseurl }}/positions/"
