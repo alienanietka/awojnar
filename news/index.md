@@ -3,15 +3,12 @@ layout: default
 title: "News"
 ---
 
-<h2>News & Updates</h2>
-
-<p>Welcome to the News section! Here you'll find the latest updates, blog posts, and short notes on my research and activities.</p>
-
+<h1>News</h1>
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ 2024-11-16-adam }}</a>
+      <span>{{ post.date | date: "%B %d, %Y" }}</span>
     </li>
   {% endfor %}
 </ul>
