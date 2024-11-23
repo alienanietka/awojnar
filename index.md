@@ -6,25 +6,25 @@ title: "Aneta Wojnar - Homepage"
 <!-- Navigation bar on top -->
 <nav style="background-color: #333; padding: 10px 0;">
   <ul style="display: flex; justify-content: center; list-style-type: none; margin: 0; padding: 0;">
-    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Home</a>
     </li>
-    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/news/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">News</a>
     </li>
-    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/group/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Group</a>
     </li>
-    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/research/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Research</a>
     </li>
-    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/women-in-science/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Women in Science</a>
     </li>
-    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/books-for-children/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Books for Children</a>
     </li>
-    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/positions/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Positions</a>
     </li>
   </ul>
