@@ -15,6 +15,16 @@ title: "Aneta Wojnar - Homepage"
   </ul>
 </nav>
 
+<h1>News</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <span>{{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <!-- Left Column: Your photo and brief introduction -->
