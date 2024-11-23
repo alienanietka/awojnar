@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-baseurl: "awojnar"  # Ustawienie puste, jeśli strona jest w katalogu głównym repozytorium
+baseurl: ""  # Ustawienie puste, jeśli strona jest w katalogu głównym repozytorium
 url: "https://alienanietka.github.io"  # Główna strona URL Twojego repozytorium
 navigation:
   - title: "Home"
