@@ -5,15 +5,16 @@ title: "Aneta Wojnar - Homepage"
 
 <nav>
   <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/news/">News</a></li>
-    <li><a href="/group/">Group</a></li>
-    <li><a href="/research/">Research</a></li>
-    <li><a href="/women-in-science/">Women in Science</a></li>
-    <li><a href="/books-for-children/">Books for Children</a></li>
-    <li><a href="/positions/">Positions</a></li>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/news/">News</a></li>
+    <li><a href="{{ site.baseurl }}/group/">Group</a></li>
+    <li><a href="{{ site.baseurl }}/research/">Research</a></li>
+    <li><a href="{{ site.baseurl }}/women-in-science/">Women in Science</a></li>
+    <li><a href="{{ site.baseurl }}/books-for-children/">Books for Children</a></li>
+    <li><a href="{{ site.baseurl }}/positions/">Positions</a></li>
   </ul>
 </nav>
+
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <!-- Left Column: Your photo and brief introduction -->
