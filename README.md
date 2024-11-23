@@ -1,1 +1,1 @@
-# Aneta Wojnar
+# Personal website of Aneta Wojnar, PhD
