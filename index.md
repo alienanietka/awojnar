@@ -5,7 +5,7 @@ title: "Aneta Wojnar - Homepage"
 
 <!-- Navigation bar on top -->
 <nav style="background-color: #333; padding: 10px 0;">
-  <ul style="display: flex; justify-content: center; list-style-type: none; margin: 0; padding: 0;">
+  <ul style="display: flex; justify-content: space-between; list-style-type: none; margin: 0; padding: 0; width: 80%; max-width: 1200px; margin: 0 auto;">
     <li style="margin: 0 20px; border-bottom: 2px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
       <a href="/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Home</a>
     </li>
