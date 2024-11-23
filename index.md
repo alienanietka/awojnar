@@ -4,12 +4,20 @@ title: "Aneta Wojnar - Homepage"
 ---
 
 <!-- Navigation bar on top -->
-<nav style="background-color: #333; padding: 10px;">
+<nav style="background-color: #333; padding: 10px 0;">
   <ul style="display: flex; justify-content: center; list-style-type: none; margin: 0; padding: 0;">
-    <li style="margin: 0 20px;"><a href="/" style="color: white; text-decoration: none;">Home</a></li>
-    <li style="margin: 0 20px;"><a href="/news/" style="color: white; text-decoration: none;">News</a></li>
-    <li style="margin: 0 20px;"><a href="/group/" style="color: white; text-decoration: none;">Group</a></li>
-    <li style="margin: 0 20px;"><a href="/research/" style="color: white; text-decoration: none;">Research</a></li>
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+      <a href="/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Home</a>
+    </li>
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+      <a href="/news/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">News</a>
+    </li>
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+      <a href="/group/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Group</a>
+    </li>
+    <li style="margin: 0 20px; border-bottom: 2px solid transparent;">
+      <a href="/research/" style="color: white; text-decoration: none; padding: 10px 20px; display: inline-block;">Research</a>
+    </li>
   </ul>
 </nav>
 
