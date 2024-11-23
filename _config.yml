@@ -4,7 +4,7 @@ url: "https://alienanietka.github.io"  # Główna strona URL repozytorium
 
 
 # Add permalink structure to ensure posts are in the right format
-permalink: /:categories/:year/:month/:day/:title.html
+#permalink: /:categories/:year/:month/:day/:title.html
 
 navigation:
   - title: "Home"
