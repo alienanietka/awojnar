@@ -1,14 +1,14 @@
+/* Styl dla kontenera na zakładki */
 nav ul {
   display: flex;
-  justify-content: space-around;  /* bylo space-around   */
-  list-style-type: none;
+  justify-content: space-around;  /* Rozstawia zakładki równomiernie */
+  list-style-type: none;  /* Usuwa domyślną listę punktowaną */
   margin: 0;
   padding: 0;
   width: 100%;
 }
 
 nav ul li {
-  flex: 1;
   text-align: center;
 }
 
@@ -22,10 +22,9 @@ nav a {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  min-width: 100px;  /* Minimalna szerokość, aby nazwa zakładki była widoczna */
 }
 
-/* Dodajemy responsywność */
+/* Responsywność - zmienia układ na kolumnowy na mniejszych ekranach */
 @media (max-width: 768px) {
   nav ul {
     flex-direction: column;
