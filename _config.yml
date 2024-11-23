@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-baseurl: "awojnar"  # Brak baseurl oznacza główny folder repozytorium
+baseurl: "/awojnar"  # Brak baseurl oznacza główny folder repozytorium
 url: "https://alienanietka.github.io"  # Główna strona URL repozytorium
 
 navigation:
