@@ -3,11 +3,15 @@ layout: default
 title: "Aneta Wojnar - Homepage"
 ---
 
-<nav style="text-align: center; margin-bottom: 20px;">
-  <a href="/" style="margin-right: 15px;">Home</a>
-  <a href="/group/" style="margin-right: 15px;">Group</a>
-  <a href="/research/">Research</a>
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/news/">News</a></li>
+    <li><a href="/group/">Group</a></li>
+    <li><a href="/research/">Research</a></li>
+  </ul>
 </nav>
+
 
 <div style="display: flex; justify-content: space-between; gap: 30px;">
   <!-- Left Column: Your photo and brief introduction -->
