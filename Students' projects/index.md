@@ -1,3 +1,5 @@
+### **Didn’t find anything that suits your interests, but you’d like to explore research in gravity, theoretical astrophysics, or astronomy? Feel free to contact me, and we can work together to develop a topic tailored to your interests.**
+
 ### **Bachelor Thesis Topics:**
 
 1. **Estimating the Effects of the 2010 Chile Earthquake on Industrial Facilities**  
@@ -35,4 +37,4 @@ This project examines the concept of mass in Newtonian gravity, general relativi
 2. **Compact Objects and Gravitational Waves in Modified Gravity**  
    *(Assigned)*
 
-### **Didn’t find anything that suits your interests, but you’d like to explore research in gravity, theoretical astrophysics, or astronomy? Feel free to contact me, and we can work together to develop a topic tailored to your interests.**
+
