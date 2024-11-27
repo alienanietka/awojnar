@@ -9,6 +9,7 @@ title: "Aneta Wojnar - Homepage"
     <li><a href="{{ site.baseurl }}/news/">News</a></li>
     <li><a href="{{ site.baseurl }}/group/">Group</a></li>
     <li><a href="{{ site.baseurl }}/research/">Research</a></li>
+     <li><a href="{{ site.baseurl }}/positions/">MSc-BSc-PhD</a></li>
     <li><a href="{{ site.baseurl }}/women-in-science/">Women in Science</a></li>
     <li><a href="{{ site.baseurl }}/books-for-children/">Books for Children</a></li>
     <li><a href="{{ site.baseurl }}/positions/">Positions</a></li>
