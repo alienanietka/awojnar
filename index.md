@@ -32,7 +32,7 @@ title: "Aneta Wojnar - Homepage"
   Previously, I held a research position at the University of Tartu, Estonia, and a postdoctoral position at the Federal University of Espirito Santo, Brazil, and Marie Curie-Skłodowska University in Lublin, Poland. I completed my PhD at the University of Wrocław, Poland, in collaboration with the University of Napoli "Federico II" in Italy. 
 </p>
 <p>
-  In addition to my academic roles, I am also a Project Manager at ASTROTECTONIC sp. z o.o., where I oversee cutting-edge projects related to earthquake forecasting and geophysical research.
+  In addition to my academic roles, I am also a Project Manager at ASTROTECTONIC sp. z o.o., where I oversee cutting-edge projects related to research and earthquake forecasting.
 </p>
 <p>
   My <a href="https://inspirehep.net/authors/1421102?ui-citation-summary=true" target="_blank">updated list of publications</a> can be found on Inspire.
