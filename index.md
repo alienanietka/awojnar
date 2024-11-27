@@ -27,7 +27,7 @@ title: "Aneta Wojnar - Homepage"
 <h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">About Me</h2>
 
 <p style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; margin-bottom: 20px;">
-  I am a <strong>Professor Assistant</strong> at the University of Wrocław and a <strong>Research Fellow</strong> at Complutense University of Madrid. My research primarily focuses on <em>seismic forecasting</em>, <em>astrophysics</em>, and the application of <em>machine learning</em> to geophysical data. 
+  I am a <strong>Professor Assistant</strong> at the University of Wrocław and a <strong>Research Fellow</strong> at Complutense University of Madrid. My research primarily focuses on <em>gravity</em> and <em>astrophysics</em>. 
 </p>
 
 <p style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; margin-bottom: 20px;">
