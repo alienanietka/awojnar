@@ -7,17 +7,17 @@
    This project involves analyzing power consumption data and understanding how Astroteq.ai's earthquake forecasting system could have reduced the impact of the 2010 Chile earthquake. The study will use FEMA’s disaster damage reduction manual for calculations.  
    *Target student*: Preferably from econophysics. This project can be done as part of a traineeship at Astroteq.ai.
 
-2. **Exoplanets as a Tool for Probing New Physics**  
+2. **Light Elements Burning in Low-Mass Stars**  
+  *(Available)*   
+   This thesis focuses on how modified gravity theories influence the burning processes of light elements in low-mass stars, altering their energy generation and observational properties.
+   
+4. **Exoplanets as a Tool for Probing New Physics**  
    *(Assigned)*   
    This thesis explores the role of planets within our Solar System and exoplanets in testing gravitational models and understanding dark matter. These celestial bodies offer unique opportunities to study deviations from general relativity.
 
-3. **Searching for the Dark Sector of the Universe in Stars**  
+5. **Searching for the Dark Sector of the Universe in Stars**  
    *(Assigned)*   
    This research investigates scalar fields as potential candidates for the dark sector of the Universe, examining their influence on the internal structure and properties of stars. The study explores how scalar fields impact stellar evolution and equilibrium.
-
-4. **Light Elements Burning in Low-Mass Stars**  
-  *(Available)*   
-   This thesis focuses on how modified gravity theories influence the burning processes of light elements in low-mass stars, altering their energy generation and observational properties.
 
 ---
 
