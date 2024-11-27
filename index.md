@@ -31,11 +31,11 @@ title: "Aneta Wojnar - Homepage"
 </p>
 
 <p style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; margin-bottom: 20px;">
-  Previously, I held a research position at the <strong>University of Tartu, Estonia</strong>, and a postdoctoral position at the <strong>Federal University of Espirito Santo, Brazil</strong>, and <strong>Marie Curie-Skłodowska University in Lublin, Poland</strong>. I completed my PhD at the <strong>University of Wrocław, Poland</strong>, in collaboration with the <strong>University of Napoli "Federico II"</strong> in Italy. 
+  Previously, I held a research position at the University of Tartu, Estonia, and a postdoctoral position at the Federal University of Espirito Santo, Brazil, and Marie Curie-Skłodowska University in Lublin, Poland. I completed my PhD at the University of Wrocław, Poland, in collaboration with the University of Napoli "Federico II" in Italy. 
 </p>
 
 <p style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; margin-bottom: 20px;">
-  In addition to my academic roles, I am also a <strong>Project Manager</strong> at <strong>ASTROTECTONIC sp. z o.o.</strong>, where I oversee cutting-edge projects related to <em>earthquake forecasting</em> and <em>geophysical research</em>.
+  In addition to my academic roles, I also collaborate with <a href="https://astroteq.ai/" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">ASTROTECTONIC sp. z o.o.</a>, where I contribute to cutting-edge projects related to <em>earthquake forecasting</em> and <em>research</em>.
 </p>
 
 <p style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; margin-bottom: 40px;">
