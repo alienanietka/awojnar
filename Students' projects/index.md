@@ -1,4 +1,4 @@
-### **Didn’t find anything that suits your interests, but you’d like to explore research in gravity, theoretical astrophysics, or astronomy? Feel free to contact me, and we can work together to develop a topic tailored to your interests.**
+### **Didn’t find anything that suits your interests, but you’d like to explore research in gravity or theoretical astrophysics? Are you going to be a specialist in astrophysical data? Feel free to contact me, and we can work together to develop a topic tailored to your interests.**
 
 ### **Bachelor Thesis Topics:**
 
