@@ -4,20 +4,20 @@
 
 1. **Estimating the Effects of the 2010 Chile Earthquake on Industrial Facilities**  
    *(Available)*  
-   This project involves analyzing power consumption data and understanding how Astroteq.ai's earthquake forecasting system could have reduced the impact of the 2010 Chile earthquake. The study will use FEMA’s disaster damage reduction manual for calculations.  
+   The idea would involve analyzing deductions from power consumption statistics and understanding how Astroteq.ai's earthquakes forecasting system could have helped in the past and can help in the future with the reduction of the impact and damage by allowing proper mitigative steps to be taken before the earthquake arrives. The calculations will be done based on FEMA's disaster damage reduction manual.  
    *Target student*: Preferably from econophysics. This project can be done as part of a traineeship at Astroteq.ai.
 
 2. **Light Elements Burning in Low-Mass Stars**  
   *(Available)*   
-   This thesis focuses on how modified gravity theories influence the burning processes of light elements in low-mass stars, altering their energy generation and observational properties.
+   This thesis explores the impact of modified gravity on the burning processes of light elements in low-mass stars. By analyzing changes in stellar structure and evolution under alternative gravitational theories, the study aims to understand how these modifications influence energy generation and observational properties of low-mass stars.
    
 4. **Exoplanets as a Tool for Probing New Physics**  
    *(Assigned)*   
-   This thesis explores the role of planets within our Solar System and exoplanets in testing gravitational models and understanding dark matter. These celestial bodies offer unique opportunities to study deviations from general relativity.
+   Planets within our Solar System, as well as exoplanets beyond it, have emerged as fascinating objects for testing gravitational models and exploring the nature of dark matter. Their diverse properties provide unique environments to study deviations from general relativity. With the continuously growing database of observed planetary systems, new opportunities arise to investigate fundamental questions in physics, leveraging these celestial bodies as natural laboratories for probing new physics.
 
 5. **Searching for the Dark Sector of the Universe in Stars**  
    *(Assigned)*   
-   This research investigates scalar fields as potential candidates for the dark sector of the Universe, examining their influence on the internal structure and properties of stars. The study explores how scalar fields impact stellar evolution and equilibrium.
+   This thesis investigates the influence of scalar fields, as potential candidates for the dark sector of the Universe, on the internal structure and selected properties of stellar objects. By analyzing modifications to the equations governing stellar equilibrium and evolution, the study explores how the presence of scalar fields impacts key characteristics such as density, pressure profiles, and observational properties of stars. These findings aim to provide insights into the role of the dark sector in shaping astrophysical phenomena and the broader implications for stellar physics.
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Concept of Mass in Extensions of General Relativity**  
 *(Assigned)*  
-This project examines the concept of mass in Newtonian gravity, general relativity (GR), and its extensions. It compares different mass definitions and analyzes the role of scalar fields in modified gravity theories, especially in the context of astrophysical bodies.
+This thesis investigates the concept of mass in Newtonian gravity, Einstein’s general relativity, and its extensions. A comparative analysis of mass definitions is conducted, focusing on their theoretical foundations. Particular attention is given to the role of scalar fields in modified theories of gravity and their influence on the interpretation of mass. Additionally, the study explores the microphysical description of scalarization in astrophysical bodies.
 
 ---
 
