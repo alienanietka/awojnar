@@ -26,7 +26,7 @@ title: "Aneta Wojnar - Homepage"
   <div style="flex: 1; max-width: 600px;">
 <h2>About Me</h2>
 <p>
-  I am a Professor Assistant at the University of Wrocław and a Research Fellow at Complutense University of Madrid. My research primarily focuses on seismic forecasting, astrophysics, and the application of machine learning to geophysical data. 
+  I am a Professor Assistant at the University of Wrocław, Poland, and a Research Fellow at Complutense University of Madrid, Spain. My research primarily focuses on seismic forecasting, astrophysics, and the application of machine learning to geophysical data. 
 </p>
 <p>
   Previously, I held a research position at the University of Tartu, Estonia, and a postdoctoral position at the Federal University of Espirito Santo, Brazil, and Marie Curie-Skłodowska University in Lublin, Poland. I completed my PhD at the University of Wrocław, Poland, in collaboration with the University of Napoli "Federico II" in Italy. 
