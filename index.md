@@ -25,7 +25,7 @@ title: "Aneta Wojnar - Homepage"
     <img src="assets/images/A.png" alt="Your photo" style="width: 100%; max-width: 300px; border-radius: 50%; margin: 20px 0;">
     <p>
       I am a professor assistant at the University of Wrocław and a research fellow at Complutense University of Madrid. 
-      My research focuses on seismology, gravitational waves, and geophysics.
+      My research focuses on .....
     </p>
 
   </div>
