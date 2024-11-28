@@ -58,7 +58,7 @@ title: "Group"
     See the <a href="https://arxiv.org/abs/2409.16201" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">paper</a>.
   </li>
   <li>
-    <strong>Kart Soieva</strong> (University of Tartu, Estonia), supervised a <strong>bachelor thesis</strong> titled 
+    <strong>Kärt Soieva</strong> (University of Tartu, Estonia), supervised a <strong>bachelor thesis</strong> titled 
     “The cooling process of brown dwarfs in Horndeski theory of gravity.” 
     <em>Defended in June 2022.</em> 
     See the <a href="https://arxiv.org/abs/2205.12812" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">paper</a>.
@@ -70,7 +70,7 @@ title: "Group"
 
 <ul style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6;">
   <li>
-    <strong>Anna Horvath</strong> (Wigner Research Centre for Physics, Hungary), supervised under the Hungarian programme <strong>Mobilitas</strong> at Complutense University of Madrid. 
+    <strong>Anna Horváth</strong> (Wigner Research Centre for Physics, Hungary), supervised under the Hungarian programme <strong>Mobilitas</strong> at Complutense University of Madrid. 
     <em>February–March 2024</em> and <em>September 2024</em>. Paper in preparation.
   </li>
   <li>
