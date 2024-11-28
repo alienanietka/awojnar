@@ -33,11 +33,20 @@ title: "Group"
 
 
   <!-- Member 3 -->
+<div style="display: flex; justify-content: space-around; margin-bottom: 30px;">
   <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzesiek" 
-         style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Grzesiek - Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+    <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzegorz Dziewisz" 
+         style="width: 150px; height: 150px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Grzegorz Dziewisz</p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
+      Grzegorz Dziewisz is a <strong>Master's student at the University of Wrocław, Poland</strong>, currently working under the supervision of <strong>Aneta Wojnar</strong>. His research focuses on the <strong>concept of mass in General Relativity and its extensions</strong>.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
+      For his <strong>bachelor thesis</strong>, titled <em>“Uncertainty of photon emission in Deformed Special Relativity”</em>, Grzegorz worked under the supervision of <strong><a href="https://inspirehep.net/authors/1001976?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Jerzy Kowalski-Glikman</a></strong>.
+    </p>
   </div>
+</div>
+
 
 </div>
 <!-- Collaborators from Other Institutions Section -->
