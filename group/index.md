@@ -40,6 +40,49 @@ title: "Group"
   </div>
 
 </div>
+<!-- Collaborators from Other Institutions Section -->
+<h2 style="font-family: 'Georgia', serif; font-size: 1.5em; margin-bottom: 20px; color: #1e90ff; text-align: center;">Collaborators from Other Institutions</h2>
+
+<div style="display: flex; justify-content: space-around; margin-bottom: 30px;">
+  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
+         style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Anna Horváth</p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
+      Anna Horváth is a <strong>researcher at the Wigner Research Centre for Physics, Budapest, Hungary</strong>. She collaborates with our group on topics related to theoretical and astrophysical aspects of gravity. Her research interests include <strong>general relativity</strong>, <strong>astrophysics</strong>, and <strong>gravitational waves</strong>. Anna is currently supervised by <strong>XX</strong>.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
+      Anna’s work bridges the gap between fundamental physics and observational astronomy, with a special focus on the intersection of <strong>gravity theories</strong> and <strong>gravitational wave astronomy</strong>.
+    </p>
+  </div>
+
+  <!-- Możesz dodać kolejne kolumny dla innych współpracowników, np. -->
+  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+    <!-- Image and Info for Next Collaborator -->
+    <img src="{{ site.baseurl }}/assets/images/group/other_collaborator.jpg" alt="Other Collaborator" 
+         style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Collaborator Name</p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
+      Collaborator’s brief introduction and research focus. You can expand this text similarly as the first one.
+    </p>
+  </div>
+
+  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+    <!-- Image and Info for Another Collaborator -->
+    <img src="{{ site.baseurl }}/assets/images/group/another_collaborator.jpg" alt="Another Collaborator" 
+         style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Another Collaborator</p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
+      Another brief introduction and research focus for this collaborator. Customize this section as needed.
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
 
 
 
@@ -70,7 +113,7 @@ title: "Group"
 
 <ul style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6;">
   <li>
-    <strong>Anna Horváth</strong> (Wigner Research Centre for Physics, Hungary), supervised under the Hungarian programme <strong>Mobilitas</strong> at Complutense University of Madrid. 
+    <strong>Anna Horváth</strong> (Wigner Research Centre for Physics, Budapest Hungary), supervised under the Hungarian programme <strong>Mobilitas</strong> at Complutense University of Madrid. 
     <em>February–March 2024</em> and <em>September 2024</em>. Paper in preparation.
   </li>
   <li>
