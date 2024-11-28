@@ -1,9 +1,33 @@
 ---
 layout: default
-title: "Former Students - Group"
+title: "Group"
 ---
 
-<h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Former Students</h1>
+<h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Active Group Members</h1>
+
+<!-- Active Group Members Section -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 40px;">
+  <!-- Member 1 -->
+  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Olek" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Olek - Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  </div>
+
+  <!-- Member 2 -->
+  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzesiek" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Grzesiek - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+
+  <!-- Member 3 -->
+  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Dag" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Dag - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+  </div>
+</div>
+
+<!-- Former Students Section -->
+<h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-top: 40px; margin-bottom: 20px;">Former Students</h1>
 
 <!-- Thesis Supervisions Section -->
 <h2 style="font-family: 'Georgia', serif; font-size: 1.5em; margin-bottom: 10px; color: #1e90ff;">Thesis Supervisions</h2>
