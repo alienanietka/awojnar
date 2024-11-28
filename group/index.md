@@ -49,10 +49,10 @@ title: "Group"
          style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Anna Horváth</p>
     <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
-      Anna Horváth is a <strong>researcher at the Wigner Research Centre for Physics, Budapest, Hungary</strong>. She collaborates with our group on topics related to theoretical and astrophysical aspects of gravity. Her research interests include <strong>general relativity</strong>, <strong>astrophysics</strong>, and <strong>gravitational waves</strong>. Anna is currently supervised by <strong>XX</strong>.
+      Anna Horváth is a <strong>PhD student at the Wigner Research Centre for Physics, Budapest, Hungary</strong>. She collaborates with our group on topics related to theoretical and astrophysical aspects of Kaluza-Klein theory. Her research interests include <strong>physics of neutron starsy</strong>. Anna is currently supervised by <strong>Gergely Gabor Barnaföldi</strong>.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
-      Anna’s work bridges the gap between fundamental physics and observational astronomy, with a special focus on the intersection of <strong>gravity theories</strong> and <strong>gravitational wave astronomy</strong>.
+      For more information on her publications, visit her INSPIRE profile.
     </p>
   </div>
 
