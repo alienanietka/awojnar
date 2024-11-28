@@ -8,14 +8,16 @@ title: "Group"
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
 
   <!-- Member 1 -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex: 1 1 30%; max-width: 30%; text-align: left;">
+  <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; flex: 1 1 45%; max-width: 45%; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Olek" 
          style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Olek - Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px;">
+      Olek - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+    </p>
   </div>
 
   <!-- Member 2 -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex: 1 1 30%; max-width: 30%; text-align: left;">
+  <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; flex: 1 1 45%; max-width: 45%; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Débora Aguiar Gomes" 
          style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
@@ -32,10 +34,8 @@ title: "Group"
     </div>
   </div>
 
-  
-
   <!-- Member 3 -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex: 1 1 30%; max-width: 30%; text-align: left;">
+  <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; flex: 1 1 45%; max-width: 45%; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzegorz Dziewisz" 
          style="width: 150px; height: 150px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
@@ -58,7 +58,7 @@ title: "Group"
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
 
   <!-- Collaborator 1 -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex: 1 1 30%; max-width: 30%; text-align: left;">
+  <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; flex: 1 1 45%; max-width: 45%; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
          style="width: 150px; height: 150px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
@@ -73,6 +73,7 @@ title: "Group"
   </div>
 
 </div>
+
 
 <!-- Former Students Section -->
 <h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-top: 40px; margin-bottom: 20px;">Former Students</h1>
