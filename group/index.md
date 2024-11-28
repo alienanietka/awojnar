@@ -19,14 +19,17 @@ title: "Group"
   <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Débora Aguiar Gomes" 
        style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Débora Aguiar Gomes</p>
-  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px;"><em>PhD Thesis:</em> Theoretical and Astrophysical Aspects of Extended General Relativity</p>
-  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px;">
+  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
+    <em>PhD Thesis:</em> Theoretical and Astrophysical Aspects of Extended General Relativity
+  </p>
+  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
     Débora Aguiar Gomes is a <strong>PhD student</strong> at the <strong>University of Tartu, Estonia</strong>, working under the supervision of <strong>Tomi Koivisto</strong> and <strong>Aneta Wojnar</strong>. Her research focuses on the theoretical foundations and applications of gravity, particularly in the context of <strong>extended general relativity</strong>. Her work explores the intersection of <strong>gravity theories</strong>, <strong>cosmology</strong>, and <strong>stellar physics</strong>.
   </p>
-  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px;">
+  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
     For more information on her publications, visit her <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
   </p>
 </div>
+
 
 
   <!-- Member 3 -->
