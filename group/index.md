@@ -5,25 +5,31 @@ title: "Group"
 
 <h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Current Group Members</h1>
 
-<!-- Active Group Members Section -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 40px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+
   <!-- Member 1 -->
   <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Olek" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Olek" 
+         style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Olek - Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   </div>
 
   <!-- Member 2 -->
-<div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Dag" style="width: 150px; height: 150px; object-fit: cover; object-position: top 20%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transform: scale(0.8);">
-  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Dag - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-</div>
-  
-<!-- Member 3 -->
   <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzesiek" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Grzesiek - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Dag" 
+         style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Dag - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
   </div>
+
+  <!-- Member 3 -->
+  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzesiek" 
+         style="width: 150px; height: 150px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Grzesiek - Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+  </div>
+
+</div>
+
 
 
 
