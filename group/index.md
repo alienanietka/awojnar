@@ -19,12 +19,12 @@ title: "Group"
     <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Grzesiek - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   </div>
 
-  <!-- Member 3 -->
-  <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
-    <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Dag" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Dag - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-  </div>
+<!-- Member 3 -->
+<div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Dag" style="width: 150px; height: 150px; object-fit: cover; object-position: top 20%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transform: scale(0.8);">
+  <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 10px;">Dag - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
 </div>
+
 
 
 <!-- Former Students Section -->
