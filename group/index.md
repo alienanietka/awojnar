@@ -10,7 +10,7 @@ title: "Group"
   <!-- Member 1 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Olek" 
-         style="width: 120px; height: 120px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+         style="width: 120px; height: 160px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <p style="font-family: 'Georgia', serif; font-size: 1.1em;">
       Olek - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
     </p>
@@ -19,7 +19,7 @@ title: "Group"
   <!-- Member 2 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Débora Aguiar Gomes" 
-         style="width: 120px; height: 120px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Débora Aguiar Gomes</p>
       <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
@@ -37,7 +37,7 @@ title: "Group"
   <!-- Member 3 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzegorz Dziewisz" 
-         style="width: 120px; height: 120px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Grzegorz Dziewisz</p>
       <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
@@ -60,7 +60,7 @@ title: "Group"
   <!-- Collaborator 1 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
-         style="width: 120px; height: 120px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Anna Horváth</p>
       <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
@@ -73,6 +73,7 @@ title: "Group"
   </div>
 
 </div>
+
 
 
 
