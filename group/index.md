@@ -29,7 +29,7 @@ title: "Former Students - Group"
 <ul style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6;">
   <li>
     <strong>Anna Horvath</strong> (Wigner Research Centre for Physics, Hungary), supervised under the Hungarian programme <strong>Mobilitas</strong> at Complutense University of Madrid. 
-    <em>February–March 2024</em> and <em>September 2024</em>.
+    <em>February–March 2024</em> and <em>September 2024</em>. Paper in preparation.
   </li>
   <li>
     <strong>Aleksander Kozak</strong> (University of Wrocław, Poland), supervised under the <strong>Erasmus+ Traineeship</strong> at Complutense University of Madrid. 
