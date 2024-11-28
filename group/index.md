@@ -41,7 +41,8 @@ title: "Group"
 
 </div>
 <!-- Collaborators from Other Institutions Section -->
-<h2 style="font-family: 'Georgia', serif; font-size: 1.5em; margin-bottom: 20px; color: #1e90ff; text-align: center;">Collaborators from Other Institutions</h2>
+<h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Collaborators from Other Institutions</h1>
+
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 30px;">
   <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
