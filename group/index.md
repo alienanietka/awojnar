@@ -24,13 +24,15 @@ title: "Group"
         <em>PhD Thesis:</em> Theoretical and Astrophysical Aspects of Extended General Relativity
       </p>
       <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
-        Débora Aguiar Gomes is a <strong>PhD student</strong> at the <strong>University of Tartu, Estonia</strong>, working under the supervision of <strong>Tomi Koivisto</strong> and <strong>Aneta Wojnar</strong>. Her research focuses on the theoretical foundations and applications of gravity, particularly in the context of <strong>extended general relativity</strong>. Her work explores the intersection of <strong>gravity theories</strong>, <strong>cosmology</strong>, and <strong>stellar physics</strong>.
+        Débora Aguiar Gomes is a <strong>PhD student</strong> at the <strong>University of Tartu, Estonia</strong>, working under the supervision of <strong><a href="https://inspirehep.net/authors/1023744?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Tomi Koivisto</a></strong> and <strong>Aneta Wojnar</strong>. Her research focuses on the theoretical foundations and applications of gravity, particularly in the context of <strong>extended general relativity</strong>. Her work explores the intersection of <strong>gravity theories</strong>, <strong>cosmology</strong>, and <strong>stellar physics</strong>.
       </p>
       <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
         For more information on her publications, visit her <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
       </p>
     </div>
   </div>
+
+  
 
   <!-- Member 3 -->
   <div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex: 1 1 30%; max-width: 30%; text-align: left;">
