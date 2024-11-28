@@ -47,15 +47,17 @@ title: "Group"
 <div style="display: flex; justify-content: space-around; margin-bottom: 30px;">
   <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
-         style="width: 150px; height: 150px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+         style="width: 150px; height: 150px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Anna Horváth</p>
     <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
-      Anna Horváth is a <strong>PhD student at the Wigner Research Centre for Physics, Budapest, Hungary</strong>. She collaborates with our group on topics related to theoretical and astrophysical aspects of Kaluza-Klein theory. Her research interests include <strong>physics of neutron starsy</strong>. Anna is currently supervised by <strong>Gergely Gabor Barnaföldi</strong>.
+      Anna Horváth is a <strong>PhD student at the Wigner Research Centre for Physics, Budapest, Hungary</strong>. She collaborates with our group on topics related to theoretical and astrophysical aspects of Kaluza-Klein theory. Her research interests include <strong>physics of neutron stars</strong>. Anna is currently supervised by <strong>Gergely Gabor Barnaföldi</strong>.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1em; margin-top: 5px; text-align: justify;">
-      For more information on her publications, visit her INSPIRE profile.
+      For more information on her publications, visit her <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
     </p>
   </div>
+</div>
+
 
   <!-- Możesz dodać kolejne kolumny dla innych współpracowników, np. -->
   <div style="flex: 1 1 30%; max-width: 30%; text-align: center;">
