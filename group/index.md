@@ -94,9 +94,6 @@ title: "Group"
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Grzegorz Dziewisz</p>
-         <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-        <em>PhD Thesis:</em> Theoretical and Astrophysical Aspects of Extended General Relativity
-      </p>
       <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
         Grzegorz Dziewisz is a <strong>Master's student<strong> at the <strong>University of Wrocław<strong>, Poland, currently working under the supervision of <strong>Aneta Wojnar</strong>. His research focuses on the <strong>concept of mass in General Relativity and its extensions</strong>.
       </p>
