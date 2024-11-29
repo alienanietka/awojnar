@@ -61,7 +61,7 @@ title: "News"
 {% for post in site.posts %}
   <div class="news-container">
     <div class="news-image">
-        <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}" style="width: 120px;">
+        <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}" style="width: 300px;">
     </div>
     <div class="news-content">
       <div class="news-title">{{ post.title }}</div>
