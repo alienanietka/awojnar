@@ -82,8 +82,6 @@ title: "Research"
     <div style="overflow: hidden; width: 100%; max-width: 300px;">
       <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
         <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Collaborator 1" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
-        <img src="{{ site.baseurl }}/assets/images/research/project1_2.jpg" alt="Collaborator 2" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
-        <img src="{{ site.baseurl }}/assets/images/research/project1_3.jpg" alt="Collaborator 3" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
       </div>
     </div>
     
@@ -91,7 +89,6 @@ title: "Research"
     <div style="overflow: hidden; width: 100%; max-width: 300px;">
       <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
         <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Estonian hats" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
-        <img src="{{ site.baseurl }}/assets/images/research/project2_2.jpg" alt="Collaborator 2" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
       </div>
     </div>
     
