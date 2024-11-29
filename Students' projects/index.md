@@ -1,3 +1,19 @@
+
+
+<nav>
+  <ul>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/news/">News</a></li>
+    <li><a href="{{ site.baseurl }}/group/">Group</a></li>
+    <li><a href="{{ site.baseurl }}/research/">Research</a></li>
+    <li><a href="{{ site.baseurl }}/Students' projects/">Students' projects</a></li>
+    <li><a href="{{ site.baseurl }}/women-in-science/">Women in Science</a></li>
+    <li><a href="{{ site.baseurl }}/books-for-children/">Books for Children</a></li>
+    <li><a href="{{ site.baseurl }}/positions/">Positions</a></li>
+  </ul>
+</nav>
+
+
 ### **Didn’t find anything that suits your interests, but you’d like to explore research in gravity or theoretical astrophysics? Are you going to be a specialist in astrophysical data? Feel free to contact me, and we can work together to develop a topic tailored to your interests.**
 
 ### **Bachelor Thesis Topics:**
