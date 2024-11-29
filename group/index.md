@@ -95,6 +95,9 @@ title: "Group"
   <div>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Grzegorz Dziewisz</p>
     <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+      <em>MSc Thesis:</em> Investigating the Concept of Mass in General Relativity and Its Extensions
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
       Grzegorz Dziewisz is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland, currently working under the supervision of <strong>Aneta Wojnar</strong>. His research focuses on the <strong>concept of mass in General Relativity and its extensions</strong>.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
@@ -102,6 +105,7 @@ title: "Group"
     </p>
   </div>
 </div>
+
 
 </div>
 
