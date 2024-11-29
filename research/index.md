@@ -82,7 +82,7 @@ title: "Research"
     <div style="overflow: hidden; width: 100%; max-width: 320px;">
       <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
         <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Collaborator 1" 
-        <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Collaborator 2" 
+        <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Collaborator 1" 
              style="width: 300px; height: auto; object-fit: contain;">
       </div>
     </div>
