@@ -45,3 +45,35 @@ nav a {
   text-align: center;
   font-size: 0.75rem;
 }
+
+
+.news-container {
+display: flex;
+align-items: flex-start;
+margin: 20px;
+border: 1px solid #ccc;
+padding: 10px;
+border-radius: 8px;
+max-width: 600px;
+}
+.news-image {
+margin-right: 20px;
+}
+.news-image img {
+max-width: 150px;
+border-radius: 8px;
+}
+.news-content {
+max-width: 400px;
+}
+.news-title {
+font-size: 1.5em;
+margin-bottom: 10px;
+}
+.news-date {
+color: #888;
+margin-bottom: 10px;
+}
+.news-text {
+font-size: 1em;
+}
