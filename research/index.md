@@ -76,31 +76,35 @@ title: "Research"
     </p>
   </div>
   
-  <!-- Right Column: Photo Galleries -->
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; gap: 30px;">
-    <!-- Astrophysical matter in gravity theories -->
-    <div style="overflow: hidden; width: 100%; max-width: 320px;">
-      <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-        <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Collaborator 1" 
-        <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Collaborator 1" 
-             style="width: 300px; height: auto; object-fit: contain;">
-      </div>
+ <!-- Right Column: Photo Galleries -->
+<div style="flex: 1; display: flex; flex-direction: column; align-items: center; gap: 30px;">
+  <!-- Astrophysical matter in gravity theories -->
+  <div style="overflow: hidden; width: 100%; max-width: 600px;">
+    <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Collaborator 1" 
+           style="width: 150px; height: auto; object-fit: contain;">
+      <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Collaborator 2" 
+           style="width: 150px; height: auto; object-fit: contain;">
     </div>
-    
-    <!-- Planetary seismology as a test of fundamental physics -->
-    <div style="overflow: hidden; width: 100%; max-width: 320px;">
-      <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-        <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Collaborator 2" 
-             style="width: 300px; height: auto; object-fit: contain;">
-      </div>
+  </div>
+  
+  <!-- Planetary seismology as a test of fundamental physics -->
+  <div style="overflow: hidden; width: 100%; max-width: 600px;">
+    <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Collaborator 1" 
+           style="width: 150px; height: auto; object-fit: contain;">
+      <img src="{{ site.baseurl }}/assets/images/research/planet.jpg" alt="Collaborator 2" 
+           style="width: 150px; height: auto; object-fit: contain;">
     </div>
-    
-    <!-- Big Bang Nucleosynthesis beyond GR -->
-    <div style="overflow: hidden; width: 100%; max-width: 320px;">
-      <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-        <img src="{{ site.baseurl }}/assets/images/research/lit.jpg" alt="Collaborator 3" 
-             style="width: 300px; height: auto; object-fit: contain;">
-      </div>
+  </div>
+  
+  <!-- Big Bang Nucleosynthesis beyond GR -->
+  <div style="overflow: hidden; width: 100%; max-width: 600px;">
+    <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/images/research/lit.jpg" alt="Collaborator 1" 
+           style="width: 150px; height: auto; object-fit: contain;">
+      <img src="{{ site.baseurl }}/assets/images/research/nucleosynthesis.jpg" alt="Collaborator 2" 
+           style="width: 150px; height: auto; object-fit: contain;">
     </div>
   </div>
 </div>
