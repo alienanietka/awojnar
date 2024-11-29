@@ -56,19 +56,17 @@ title: "News"
   </ul>
 </nav>
 
-
 <h1>News</h1>
 
-  {% for post in site.posts %}
-    <div class="news-container">
-      <div class="news-image">
-          <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}" style="width: 120px;">
-      </div>
-      <div class="news-content">
-        <div class="news-title">{{ post.title }}</div>
-        <div class="news-date">{{ post.date | date: "%B %d, %Y" }}</div>
-        <div class="news-text">{{ post.content }}</div>
-      </div>
+{% for post in site.posts %}
+  <div class="news-container">
+    <div class="news-image">
+        <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}" style="width: 120px;">
     </div>
-  {% endfor %}
-
+    <div class="news-content">
+      <div class="news-title">{{ post.title }}</div>
+      <div class="news-date">{{ post.date | date: "%B %d, %Y" }}</div>
+      <div class="news-text">{{ post.content }}</div>
+    </div>
+  </div>
+{% endfor %}
