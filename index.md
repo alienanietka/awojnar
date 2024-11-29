@@ -57,9 +57,9 @@ title: "Aneta Wojnar - Homepage"
 </nav>
 
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <!-- Left Column: Your photo -->
-  <div style="flex: 0 0 300px; text-align: center; margin-right: 30px;">
+  <div style="flex: 0 0 300px; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img src="assets/images/A.png" alt="Your photo" style="width: 100%; max-width: 300px; border-radius: 50%; margin: 20px 0;">
   </div>
 
@@ -88,3 +88,4 @@ title: "Aneta Wojnar - Homepage"
     </p>
   </div>
 </div>
+
