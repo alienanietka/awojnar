@@ -65,7 +65,7 @@ title: "News"
     <p style="font-family: 'Georgia', serif; font-size: 1.1em;">
       <h3>{{ post.title }}</h3><br />
       <span style="font-size: 0.8em;">{{ post.date | date: "%B %d, %Y" }}</span><br />
-      {{ post.excerpt }}
+      {{ post.content }}
     </p>
   </div>
   {% endfor %}
