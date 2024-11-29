@@ -58,11 +58,14 @@ title: "News"
 
 
 <h1>News</h1>
-<ul>
+
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <span>{{ post.date | date: "%B %d, %Y" }}</span>
-    </li>
+  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+    <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}"
+         style="width: 120px; height: 160px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em;">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} | {{ post.date | date: "%B %d, %Y" }}</a>
+    </p>
+  </div>
   {% endfor %}
-</ul>
+
