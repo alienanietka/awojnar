@@ -66,6 +66,8 @@ title: "News"
       <h3>{{ post.title }}</h3><br />
       <span style="font-size: 0.8em;">{{ post.date | date: "%B %d, %Y" }}</span><br />
       {{ post.content }}
+      ===
+      {{ post.excerpt }}
     </p>
   </div>
   {% endfor %}
