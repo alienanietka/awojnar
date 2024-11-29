@@ -3,6 +3,19 @@ layout: default
 title: "Group"
 ---
 
+<nav>
+  <ul>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/news/">News</a></li>
+    <li><a href="{{ site.baseurl }}/group/">Group</a></li>
+    <li><a href="{{ site.baseurl }}/research/">Research</a></li>
+    <li><a href="{{ site.baseurl }}/Students' projects/">Students' projects</a></li>
+    <li><a href="{{ site.baseurl }}/women-in-science/">Women in Science</a></li>
+    <li><a href="{{ site.baseurl }}/books-for-children/">Books for Children</a></li>
+    <li><a href="{{ site.baseurl }}/positions/">Positions</a></li>
+  </ul>
+</nav>
+
 <h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Current Group Members</h1>
 
 <div style="display: flex; flex-direction: column; gap: 30px;">
