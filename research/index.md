@@ -57,7 +57,50 @@ title: "Research"
 </nav>
 
 
-<h2>Positions</h2>
-<p>
-  In this section, information regarding research, will be posted.
-</p>
+<div style="display: flex; gap: 40px; margin-top: 20px;">
+  <!-- Left Column: Project Descriptions -->
+  <div style="flex: 1;">
+    <h3 style="font-family: 'Georgia', serif;">Astrophysical matter in gravity theories</h3>
+    <p style="font-family: 'Georgia', serif; text-align: justify;">
+      Gravity models like scalar-tensor and metric-affine theories aim to address gaps in General Relativity (GR) while modifying Newtonian limits. This impacts the evolution and structure of stars, white dwarfs, and planets, offering tools to test gravity theories and dark matter models. Observational methods, such as the lithium depletion technique for dating stars, depend on the underlying gravity theory.
+    </p>
+    
+    <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Astrophysical gravity tests</h3>
+    <p style="font-family: 'Georgia', serif; text-align: justify;">
+      The internal structures of planets like Earth and Mars vary slightly in extended gravity models, making them ideal for testing these theories. Seismic data helps refine gravity models, and future neutrino telescopes are expected to provide even more precise constraints, especially on Earth’s core.
+    </p>
+    
+    <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Big Bang Nucleosynthesis beyond GR</h3>
+    <p style="font-family: 'Georgia', serif; text-align: justify;">
+      The abundance of light elements formed shortly after the universe’s creation is sensitive to the cosmological models provided by alternative gravity theories. These theoretical predictions are compared with observed ratios of light elements like lithium to hydrogen. Dr. Wojnar has shown that such element abundances differ in gravity theories, challenging common approaches to solving the “cosmological lithium problem.”
+    </p>
+  </div>
+  
+  <!-- Right Column: Photo Galleries -->
+  <div style="flex: 1;">
+    <h3 style="font-family: 'Georgia', serif;">Astrophysical matter in gravity theories</h3>
+    <div style="overflow: hidden; width: 100%; max-width: 300px;">
+      <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/research/project1_1.jpg" alt="Collaborator 1" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+        <img src="{{ site.baseurl }}/assets/images/research/project1_2.jpg" alt="Collaborator 2" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+        <img src="{{ site.baseurl }}/assets/images/research/project1_3.jpg" alt="Collaborator 3" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+      </div>
+    </div>
+    
+    <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Astrophysical gravity tests</h3>
+    <div style="overflow: hidden; width: 100%; max-width: 300px;">
+      <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/research/project2_1.jpg" alt="Collaborator 1" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+        <img src="{{ site.baseurl }}/assets/images/research/project2_2.jpg" alt="Collaborator 2" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+      </div>
+    </div>
+    
+    <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Big Bang Nucleosynthesis beyond GR</h3>
+    <div style="overflow: hidden; width: 100%; max-width: 300px;">
+      <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/research/project3_1.jpg" alt="Collaborator 1" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+      </div>
+    </div>
+  </div>
+</div>
+
