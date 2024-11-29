@@ -57,7 +57,7 @@ title: "Research"
 </nav>
 
 
-<div style="display: flex; gap: 40px; margin-top: 20px;">
+<div style="display: flex; gap: 40px; margin-top: 20px; align-items: flex-start;">
   <!-- Left Column: Project Descriptions -->
   <div style="flex: 1;">
     <h3 style="font-family: 'Georgia', serif;">Astrophysical matter in gravity theories</h3>
@@ -77,27 +77,29 @@ title: "Research"
   </div>
   
   <!-- Right Column: Photo Galleries -->
-  <div style="flex: 1;">
-    <h3 style="font-family: 'Georgia', serif;">Astrophysical matter in gravity theories</h3>
-    <div style="overflow: hidden; width: 100%; max-width: 300px;">
-      <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-        <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Collaborator 1" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; gap: 30px;">
+    <!-- Astrophysical matter in gravity theories -->
+    <div style="overflow: hidden; width: 100%; max-width: 320px;">
+      <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Collaborator 1" 
+             style="width: 300px; height: auto; object-fit: contain;">
       </div>
     </div>
     
-    <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Planetary seismology as a test of fundamental physics</h3>
-    <div style="overflow: hidden; width: 100%; max-width: 300px;">
-      <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-        <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Estonian hats" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+    <!-- Planetary seismology as a test of fundamental physics -->
+    <div style="overflow: hidden; width: 100%; max-width: 320px;">
+      <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Collaborator 2" 
+             style="width: 300px; height: auto; object-fit: contain;">
       </div>
     </div>
     
-    <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Big Bang Nucleosynthesis beyond GR</h3>
-    <div style="overflow: hidden; width: 100%; max-width: 300px;">
-      <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-        <img src="{{ site.baseurl }}/assets/images/research/lit.jpg" alt="Collaborator 1" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+    <!-- Big Bang Nucleosynthesis beyond GR -->
+    <div style="overflow: hidden; width: 100%; max-width: 320px;">
+      <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/research/lit.jpg" alt="Collaborator 3" 
+             style="width: 300px; height: auto; object-fit: contain;">
       </div>
     </div>
   </div>
 </div>
-
