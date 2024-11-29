@@ -64,7 +64,9 @@ title: "News"
     <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}"
          style="width: 120px; height: 160px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <p style="font-family: 'Georgia', serif; font-size: 1.1em;">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} | {{ post.date | date: "%B %d, %Y" }}</a>
+      <h3>{{ post.title }}</h3>
+      <span style="font-size: 0.8em;">{{ post.date | date: "%B %d, %Y" }}</span><br />
+      {{ post.content }}
     </p>
   </div>
   {% endfor %}
