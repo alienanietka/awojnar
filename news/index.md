@@ -61,10 +61,9 @@ title: "News"
 
   {% for post in site.posts %}
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-    <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}"
-         style="width: 120px; height: 160px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="{{ site.baseurl }}/assets/images/news/{{ post.img }}" style="width: 120px;">
     <p style="font-family: 'Georgia', serif; font-size: 1.1em;">
-      <h3>{{ post.title }}</h3>
+      <h3>{{ post.title }}</h3><br />
       <span style="font-size: 0.8em;">{{ post.date | date: "%B %d, %Y" }}</span><br />
       {{ post.content }}
     </p>
