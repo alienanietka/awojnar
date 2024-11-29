@@ -90,7 +90,7 @@ title: "Research"
     <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Planetary seismology as a probe of fundamental physics</h3>
     <div style="overflow: hidden; width: 100%; max-width: 300px;">
       <div style="display: flex; gap: 10px; overflow-x: scroll; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-        <img src="{{ site.baseurl }}/assets/images/research/project2_1.jpg" alt="Collaborator 1" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+        <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Estonian hats" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
         <img src="{{ site.baseurl }}/assets/images/research/project2_2.jpg" alt="Collaborator 2" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
       </div>
     </div>
