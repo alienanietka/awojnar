@@ -112,26 +112,26 @@ title: "Group"
 <div style="display: flex; flex-direction: column; gap: 30px;">
 
   <!-- Collaborator 1 -->
-<div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-  <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
-       style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <div>
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Anna Horváth</p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-      Anna Horváth is a <strong>PhD student<strong> at <strong>HUN-REN Wigner Research Centre for Physics<strong> and <strong>Eötvös Loránd University<strong>, Budapest, Hungary. 
-      She collaborates with our group on topics related to theoretical and astrophysical aspects of Kaluza-Klein theory. Her research interests include 
-      <strong>the physics of neutron stars</strong>, with the PhD topic of "<strong>Modelling of compact stars using modern scientific methods</strong>".
-      Anna is currently supervised by <strong><a href="https://inspirehep.net/authors/1037832?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Gergely Gábor Barnaföldi</a></strong>.      
-    </p>    
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-      In her free time, she likes to spend time on literature, music, and slightly weird sports.
-    </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-      For more information on her publications, visit her 
-      <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
-    </p>
+  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+    <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Anna Horváth</p>
+      <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+        Anna Horváth is a <strong>PhD student</strong> at <strong>HUN-REN Wigner Research Centre for Physics</strong> and <strong>Eötvös Loránd University</strong>, Budapest, Hungary. 
+        She collaborates with our group on topics related to theoretical and astrophysical aspects of Kaluza-Klein theory. Her research interests include 
+        <strong>the physics of neutron stars</strong>, with the PhD topic of "<strong>Modelling of compact stars using modern scientific methods</strong>".
+        Anna is currently supervised by <strong><a href="https://inspirehep.net/authors/1037832?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Gergely Gábor Barnaföldi</a></strong>.
+      </p>    
+      <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+        In her free time, she likes to spend time on literature, music, and slightly weird sports.
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+        For more information on her publications, visit her 
+        <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+      </p>
+    </div>
   </div>
-</div>
 
 
 
