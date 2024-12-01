@@ -94,6 +94,7 @@ This thesis investigates the concept of mass in Newtonian gravity, Einstein’s 
 2. **Compact Objects and Gravitational Waves in Modified Gravity**  
    *(Assigned)*
 
+---
 
 ### **Completed Thesis Topics:**
 
