@@ -95,3 +95,11 @@ This thesis investigates the concept of mass in Newtonian gravity, Einstein’s 
    *(Assigned)*
 
 
+### **Completed Thesis Topics:**
+
+1. **Modified Gravity in Neutron Stars**
+    *(Master thesis defended in 2024)*
+
+2. **The cooling process of brown dwarfs in Horndeski theory of gravity**  
+   *(Bachelor thesis defended in 2022)*
+
