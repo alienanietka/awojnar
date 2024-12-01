@@ -106,6 +106,24 @@ title: "Group"
   </div>
 </div>
 
+<!-- Member 4 -->
+<div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+  <img src="{{ site.baseurl }}/assets/images/group/dr.jpg" alt="Dhrubajyoti Rakshit" 
+       style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Dhrubajyoti Rakshit</p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+      <em>MSc Scientific project:</em> Neutron stars in modified gravity
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+      Dhrubajyoti Rakshit is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland. In his scientific project he focuses on the <strong> astroparticle physics of neutron stars</strong>.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+      For his <strong>bachelor thesis</strong>, titled <em>“...”</em>, Grzegorz worked under the supervision of ....
+    </p>
+  </div>
+</div>
+
 
 </div>
 
