@@ -61,21 +61,48 @@ title: "Group"
 
 <div style="display: flex; flex-direction: column; gap: 30px;">
 
-  <!-- Member 1 -->
-  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-    <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Aleksander Kozak" 
-         style="width: 120px; height: 160px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Aleksander Kozak</p>
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em;">
-     Aleksander Kozak's research focuses on the theoretical and observational aspects of modified gravity theories, exploring their implications for both fundamental physics and astrophysical phenomena. His expertise lies primarily in scalar-tensor theories of gravity, studied through both the <strong>metric and Palatini formalisms</strong>. A key area of his work examines how these theories behave under Weyl transformations of the metric tensor and independent transformations of the linear connection. Kozak has delved into the mathematical and physical equivalence of different conformal frames within the Palatini approach and is currently extending <strong>Horndeski’s theories into the metric-affine framework</strong> to analyze their properties under conformal changes.
-
-Another significant aspect of Aleksander’s research involves the minisuperspace formulation of <strong>scalar-tensor gravity</strong> in cosmology. He has investigated scenarios where a dynamic scalar field drives the accelerated expansion of the Universe at late times. Together with Andrzej Borowiec, he demonstrated how <strong>observables in such theories can be expressed in terms of conformal invariants</strong>, simplifying the framework and enabling more efficient identification of integrals of motion. Their ongoing research focuses on spherically symmetric metrics within this formalism.
-
-Kozak has also studied the effects of modified gravity on terrestrial planets, including Earth. Collaborating with Aneta Wojnar, he showed that <strong>seismic data can constrain modified gravity models</strong> by revealing how these theories alter the internal structure of massive objects through modifications to the Newtonian limit. Their future research will extend this work to denser astrophysical objects, such as neutron stars.
-
-Additionally, Aleksander has explored the implications of modified gravity for <strong>Big Bang nucleosynthesis</strong> (BBN). Since many modified gravity models affect the primordial abundances of elements, they offer a means to constrain alternatives to general relativity, which aligns well with observations but struggles with the lithium-7 problem, where observed lithium abundances are lower than theoretical predictions. Modifying the Universe’s expansion rate during BBN offers a potential resolution to this discrepancy, an avenue of ongoing investigation in Kozak's research.
+<!-- Member 1 -->
+<div style="display: flex; align-items: flex-start; gap: 20px; text-align: justify; line-height: 1.6;">
+  <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Aleksander Kozak" 
+       style="width: 120px; height: 160px; object-fit: cover; object-position: center; border-radius: 50%; 
+              box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div>
+    <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+      Aleksander Kozak
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      Aleksander Kozak's research focuses on the theoretical and observational aspects of modified gravity theories, 
+      exploring their implications for both fundamental physics and astrophysical phenomena. His expertise lies primarily 
+      in scalar-tensor theories of gravity, studied through both the <strong>metric and Palatini formalisms</strong>. 
+      A key area of his work examines how these theories behave under Weyl transformations of the metric tensor and 
+      independent transformations of the linear connection. Kozak has delved into the mathematical and physical equivalence 
+      of different conformal frames within the Palatini approach and is currently extending <strong>Horndeski’s theories into 
+      the metric-affine framework</strong> to analyze their properties under conformal changes.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      Another significant aspect of Aleksander’s research involves the minisuperspace formulation of 
+      <strong>scalar-tensor gravity</strong> in cosmology. He has investigated scenarios where a dynamic scalar field drives the 
+      accelerated expansion of the Universe at late times. Together with Andrzej Borowiec, he demonstrated how 
+      <strong>observables in such theories can be expressed in terms of conformal invariants</strong>, simplifying the framework and 
+      enabling more efficient identification of integrals of motion. Their ongoing research focuses on spherically symmetric 
+      metrics within this formalism.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      Kozak has also studied the effects of modified gravity on terrestrial planets, including Earth. Collaborating with Aneta Wojnar, 
+      he showed that <strong>seismic data can constrain modified gravity models</strong> by revealing how these theories alter the 
+      internal structure of massive objects through modifications to the Newtonian limit. Their future research will extend this 
+      work to denser astrophysical objects, such as neutron stars.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      Additionally, Aleksander has explored the implications of modified gravity for <strong>Big Bang nucleosynthesis</strong> (BBN). 
+      Since many modified gravity models affect the primordial abundances of elements, they offer a means to constrain alternatives 
+      to general relativity, which aligns well with observations but struggles with the lithium-7 problem, where observed lithium 
+      abundances are lower than theoretical predictions. Modifying the Universe’s expansion rate during BBN offers a potential 
+      resolution to this discrepancy, an avenue of ongoing investigation in Kozak's research.
     </p>
   </div>
+</div>
+
 
   <!-- Member 2 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
