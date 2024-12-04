@@ -141,9 +141,7 @@ title: "Group"
       Grzegorz Dziewisz is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland, currently working under the supervision of 
       <strong>Aneta Wojnar</strong>. His research focuses on the <strong>concept of mass in General Relativity and its extensions</strong>.
     </p>
-      Grzegorz Dziewisz is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland, currently working under the supervision of <strong>Aneta Wojnar</strong>. His research focuses on the <strong>concept of mass in General Relativity and its extensions</strong>.
-    </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       For his <strong>bachelor thesis</strong>, titled <em>“Uncertainty of photon emission in Deformed Special Relativity”</em>, Grzegorz worked under the supervision of <strong><a href="https://inspirehep.net/authors/1001976?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Jerzy Kowalski-Glikman</a></strong>.
     </p>
   </div>
