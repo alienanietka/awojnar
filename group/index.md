@@ -100,6 +100,9 @@ title: "Group"
       abundances are lower than theoretical predictions. Modifying the Universe’s expansion rate during BBN offers a potential 
       resolution to this discrepancy, an avenue of ongoing investigation in Aleksander's research.
     </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      For more information on his publications, visit his <a href="https://inspirehep.net/authors/1870938?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+    </p> 
   </div>
 </div>
 
