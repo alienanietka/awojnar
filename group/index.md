@@ -169,49 +169,68 @@ title: "Group"
 </div>
 
 <!-- Collaborators from Other Institutions Section -->
-
-<h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Collaborators from Other Institutions</h2>
+<h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">
+  Collaborators from Other Institutions
+</h2>
 <div style="display: flex; flex-direction: column; gap: 30px;">
 
-   <!-- Collaborator 1 -->
+  <!-- Collaborator 1 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/jackson.jpg" alt="Jackson Levi Said" 
-         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
-       <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;"> Jackson Levi Said</p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+        Jackson Levi Said
+      </p>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-        Jackson Levi Said is a <strong>Professor</strong> at <strong>Institute of Space Sciences and Astronomy,
-University of Malta</strong>. 
-        He works mainly on the <strong>interface of fundamental physics with cosmological observational data</strong>. This involves both local distance ladder and early Universe cosmic microwave background data sets. He also works on developing new <strong>machine learning-driven data analysis</strong> toolkits that use the emerging suite of artificial intelligence techniques to explore the model space of new physics using these more sophisticated numerical techniques. He collaborates with our group on the project related to the problems of the <strong>Big Bang Nucleosynthesis</strong>.
-      </p>    
-     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        Jackson Levi Said is a <strong>Professor</strong> at <strong>Institute of Space Sciences and Astronomy, 
+        University of Malta</strong>. 
+        He works mainly on the <strong>interface of fundamental physics with cosmological observational data</strong>. 
+        This involves both local distance ladder and early Universe cosmic microwave background data sets. He also works on 
+        developing new <strong>machine learning-driven data analysis</strong> toolkits that use the emerging suite of artificial 
+        intelligence techniques to explore the model space of new physics using these more sophisticated numerical techniques. 
+        He collaborates with our group on the project related to the problems of the <strong>Big Bang Nucleosynthesis</strong>.
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
         For more information on his publications, visit his 
-        <a href="https://inspirehep.net/authors/1073895" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
-      </p>
-    </div>
-
-  
-  <!-- Collaborator 2 -->
-  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-    <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
-         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <div>
-       <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;"> Anna Horváth</p>
-      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-        Anna Horváth is a <strong>PhD student</strong> at <strong>HUN-REN Wigner Research Centre for Physics</strong> and <strong>Eötvös Loránd University</strong>, Budapest, Hungary. 
-        She collaborates with our group on topics related to theoretical and astrophysical aspects of Kaluza-Klein theory. Her research interests include 
-        <strong>the physics of neutron stars</strong>, with the PhD topic of "<strong>Modelling of compact stars using modern scientific methods</strong>".
-        Anna is currently supervised by <strong><a href="https://inspirehep.net/authors/1037832?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Gergely Gábor Barnaföldi</a></strong>.
-      </p>    
-  <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-        In her free time, she likes to spend time on literature, music, and slightly weird sports.
-      </p>
-     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-        For more information on her publications, visit her 
-        <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+        <a href="https://inspirehep.net/authors/1073895" target="_blank" 
+           style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
       </p>
     </div>
   </div>
+
+  <!-- Collaborator 2 -->
+  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+    <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div>
+      <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+        Anna Horváth
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        Anna Horváth is a <strong>PhD student</strong> at <strong>HUN-REN Wigner Research Centre for Physics</strong> and 
+        <strong>Eötvös Loránd University</strong>, Budapest, Hungary. 
+        She collaborates with our group on topics related to theoretical and astrophysical aspects of Kaluza-Klein theory. 
+        Her research interests include <strong>the physics of neutron stars</strong>, with the PhD topic of 
+        "<strong>Modelling of compact stars using modern scientific methods</strong>". Anna is currently supervised by 
+        <strong><a href="https://inspirehep.net/authors/1037832?ui-citation-summary=true" target="_blank" 
+        style="color: #1e90ff; text-decoration: none; font-weight: bold;">Gergely Gábor Barnaföldi</a></strong>.
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        In her free time, she likes to spend time on literature, music, and slightly weird sports.
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        For more information on her publications, visit her 
+        <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" 
+           style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+      </p>
+    </div>
+  </div>
+
+</div>
+
 
 
 
