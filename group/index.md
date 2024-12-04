@@ -88,7 +88,7 @@ title: "Group"
       metrics within this formalism.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-      Kozak has also studied the effects of modified gravity on terrestrial planets, including Earth. Collaborating with Aneta Wojnar, 
+      Aleksander has also studied the effects of modified gravity on terrestrial planets, including Earth. Collaborating with Aneta Wojnar, 
       he showed that <strong>seismic data can constrain modified gravity models</strong> by revealing how these theories alter the 
       internal structure of massive objects through modifications to the Newtonian limit. Their future research will extend this 
       work to denser astrophysical objects, such as neutron stars.
@@ -98,7 +98,7 @@ title: "Group"
       Since many modified gravity models affect the primordial abundances of elements, they offer a means to constrain alternatives 
       to general relativity, which aligns well with observations but struggles with the lithium-7 problem, where observed lithium 
       abundances are lower than theoretical predictions. Modifying the Universe’s expansion rate during BBN offers a potential 
-      resolution to this discrepancy, an avenue of ongoing investigation in Kozak's research.
+      resolution to this discrepancy, an avenue of ongoing investigation in Aleksander's research.
     </p>
   </div>
 </div>
