@@ -103,24 +103,23 @@ title: "Group"
   </div>
 </div>
 
-
-  <!-- Member 2 -->
-  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-    <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Débora Aguiar Gomes" 
-         style="width: 120px; height: 160px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <div>
-      <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Débora Aguiar Gomes</p>
-      <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-        <em>PhD Thesis:</em> Theoretical and Astrophysical Aspects of Extended General Relativity
-      </p>
-      <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-        Débora Aguiar Gomes is a <strong>PhD student</strong> at the <strong>University of Tartu, Estonia</strong>, working under the supervision of <strong><a href="https://inspirehep.net/authors/1023744?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Tomi Koivisto</a></strong> and <strong>Aneta Wojnar</strong>. Her research focuses on the theoretical foundations and applications of gravity, particularly in the context of <strong>extended general relativity</strong>. Her work explores the intersection of <strong>gravity theories</strong>, <strong>cosmology</strong>, and <strong>stellar physics</strong>.
-      </p>
-      <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-        For more information on her publications, visit her <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
-      </p>
-    </div>
+<!-- Member 2 -->
+<div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+  <img src="{{ site.baseurl }}/assets/images/group/dag.jpg" alt="Débora Aguiar Gomes" 
+       style="width: 120px; height: 160px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Débora Aguiar Gomes</p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
+      <em>PhD Thesis:</em> Theoretical and Astrophysical Aspects of Extended General Relativity
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
+      Débora Aguiar Gomes is a <strong>PhD student</strong> at the <strong>University of Tartu, Estonia</strong>, working under the supervision of <strong><a href="https://inspirehep.net/authors/1023744?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Tomi Koivisto</a></strong> and <strong>Aneta Wojnar</strong>. Her research focuses on the theoretical foundations and applications of gravity, particularly in the context of <strong>extended general relativity</strong>. Her work explores the intersection of <strong>gravity theories</strong>, <strong>cosmology</strong>, and <strong>stellar physics</strong>.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
+      For more information on her publications, visit her <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+    </p>
   </div>
+</div>
 
 <!-- Member 3 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
@@ -128,13 +127,13 @@ title: "Group"
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Grzegorz Dziewisz</p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
       <em>MSc Thesis:</em> Concept of Mass in Extensions of General Relativity
     </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
       Grzegorz Dziewisz is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland, currently working under the supervision of <strong>Aneta Wojnar</strong>. His research focuses on the <strong>concept of mass in General Relativity and its extensions</strong>.
     </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
       For his <strong>bachelor thesis</strong>, titled <em>“Uncertainty of photon emission in Deformed Special Relativity”</em>, Grzegorz worked under the supervision of <strong><a href="https://inspirehep.net/authors/1001976?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Jerzy Kowalski-Glikman</a></strong>.
     </p>
   </div>
@@ -146,17 +145,18 @@ title: "Group"
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Dhrubajyoti Rakshit</p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
       <em>Scientific project:</em> Neutron stars in modified gravity
     </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
-      Dhrubajyoti Rakshit is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland. In his scientific project, supervised by <strong>Aneta Wojnar</strong> and <strong>Aleksander Kozak</strong>, he focuses on the <strong> astroparticle physics of neutron stars</strong>.
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
+      Dhrubajyoti Rakshit is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland. In his scientific project, supervised by <strong>Aneta Wojnar</strong> and <strong>Aleksander Kozak</strong>, he focuses on the <strong>astroparticle physics of neutron stars</strong>.
     </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
       For his <strong>bachelor thesis</strong>, titled <em>“...”</em>, Dhrubajyoti worked under the supervision of ....
     </p>
   </div>
 </div>
+
 
 
 </div>
