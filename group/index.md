@@ -120,7 +120,7 @@ title: "Group"
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       Débora Aguiar Gomes is a <strong>PhD student</strong> at the <strong>University of Tartu, Estonia</strong>, working under the supervision of <strong><a href="https://inspirehep.net/authors/1023744?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Tomi Koivisto</a></strong> and <strong>Aneta Wojnar</strong>. Her research focuses on the theoretical foundations and applications of gravity, particularly in the context of <strong>extended general relativity</strong>. Her work explores the intersection of <strong>gravity theories</strong>, <strong>cosmology</strong>, and <strong>stellar physics</strong>.
     </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       For more information on her publications, visit her <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
     </p>
   </div>
