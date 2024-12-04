@@ -63,10 +63,17 @@ title: "Group"
 
   <!-- Member 1 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-    <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Olek" 
+    <img src="{{ site.baseurl }}/assets/images/group/olek.jpg" alt="Aleksander Kozak" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: center; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; margin-top: 10px; font-weight: bold;">Aleksander Kozak</p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em;">
-      Olek - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+      Olek - Aleksander Kozak's research focuses on the theoretical and observational aspects of modified gravity theories, exploring their implications for both fundamental physics and astrophysical phenomena. His expertise lies primarily in scalar-tensor theories of gravity, studied through both the metric and Palatini formalisms. A key area of his work examines how these theories behave under Weyl transformations of the metric tensor and independent transformations of the linear connection. Kozak has delved into the mathematical and physical equivalence of different conformal frames within the Palatini approach and is currently extending Horndeski’s theories into the metric-affine framework to analyze their properties under conformal changes.
+
+Another significant aspect of Kozak’s research involves the minisuperspace formulation of scalar-tensor gravity in cosmology. He has investigated scenarios where a dynamic scalar field drives the accelerated expansion of the Universe at late times. Together with Andrzej Borowiec, he demonstrated how observables in such theories can be expressed in terms of conformal invariants, simplifying the framework and enabling more efficient identification of integrals of motion. Their ongoing research focuses on spherically symmetric metrics within this formalism.
+
+Kozak has also studied the effects of modified gravity on terrestrial planets, including Earth. Collaborating with Aneta Wojnar, he showed that seismic data can constrain modified gravity models by revealing how these theories alter the internal structure of massive objects through modifications to the Newtonian limit. Their future research will extend this work to denser astrophysical objects, such as neutron stars.
+
+Additionally, Kozak has explored the implications of modified gravity for Big Bang nucleosynthesis (BBN). Since many modified gravity models affect the primordial abundances of elements, they offer a means to constrain alternatives to general relativity, which aligns well with observations but struggles with the lithium-7 problem, where observed lithium abundances are lower than theoretical predictions. Modifying the Universe’s expansion rate during BBN offers a potential resolution to this discrepancy, an avenue of ongoing investigation in Kozak's research.
     </p>
   </div>
 
