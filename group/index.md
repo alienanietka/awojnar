@@ -161,7 +161,7 @@ title: "Group"
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       Dhrubajyoti Rakshit is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland. In his scientific project, supervised by <strong>Aneta Wojnar</strong> and <strong>Aleksander Kozak</strong>, he focuses on the <strong>astroparticle physics of neutron stars</strong>.
     </p>
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em; text-align: justify;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       For his <strong>bachelor thesis</strong>, titled <em>“...”</em>, Dhrubajyoti worked under the supervision of ....
     </p>
   </div>
