@@ -75,14 +75,14 @@ title: "Group"
       exploring their implications for both fundamental physics and astrophysical phenomena. His expertise lies primarily 
       in scalar-tensor theories of gravity, studied through both the <strong>metric and Palatini formalisms</strong>. 
       A key area of his work examines how these theories behave under Weyl transformations of the metric tensor and 
-      independent transformations of the linear connection. Kozak has delved into the mathematical and physical equivalence 
+      independent transformations of the linear connection. Aleksander has delved into the mathematical and physical equivalence 
       of different conformal frames within the Palatini approach and is currently extending <strong>Horndeski’s theories into 
       the metric-affine framework</strong> to analyze their properties under conformal changes.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       Another significant aspect of Aleksander’s research involves the minisuperspace formulation of 
       <strong>scalar-tensor gravity</strong> in cosmology. He has investigated scenarios where a dynamic scalar field drives the 
-      accelerated expansion of the Universe at late times. Together with Andrzej Borowiec, he demonstrated how 
+      accelerated expansion of the Universe at late times. Together with <strong><a href="https://inspirehep.net/authors/1015739?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Andrzej Borowiec</a></strong>, he demonstrated how  
       <strong>observables in such theories can be expressed in terms of conformal invariants</strong>, simplifying the framework and 
       enabling more efficient identification of integrals of motion. Their ongoing research focuses on spherically symmetric 
       metrics within this formalism.
