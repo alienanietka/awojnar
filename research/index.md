@@ -66,7 +66,6 @@ title: "Research"
     </p>
     <p style="font-family: 'Georgia', serif; text-align: justify;">
 To address these challenges, scientists develop <strong><a href="https://link.springer.com/book/10.1007/978-3-030-83715-0" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Modified Gravity</a></strong> or Extended Theories of Gravity, including scalar-tensor and metric-affine models. These theories not only aim to bridge the gaps in General Relativity but also affect the Newtonian limit, influencing the <strong><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.124045" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">structure and evolution of stars</a></strong>, <strong><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044072" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">white dwarfs</a></strong>, and <strong><a href="https://doi.org/10.1103/PhysRevD.104.104058" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">planets</a></strong>, such as Jupiter and other <strong><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064032" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">substellar objects</a></strong>. Such modifications provide tools to test gravity theories and constrain dark matter models through astrophysical observations. Furthermore, certain observational techniques, such as the <strong><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.044037" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">lithium depletion method for dating stars</a></strong>, depend sensitively on the underlying gravitational framework, underscoring the interplay between fundamental physics and stellar evolution. Of particular interest are neutron stars—extremely dense remnants of collapsed stars, with masses up to about two times that of the Sun but radii comparable to a small city (~15 km). By applying a <strong><a href="https://iopscience.iop.org/article/10.1088/1475-7516/2024/02/017" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">suitable description of their extraordinary and not yet fully understood interior properties, </a></strong>Modified Gravity theories can alter their <strong><a href="https://arxiv.org/abs/2402.03914" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">observable characteristics</a></strong>. These changes provide <strong><a href="https://arxiv.org/abs/2409.16201" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">potential tests</a></strong> for our gravitational models, especially for supporting the claim that Modified Gravity is necessary to explain certain phenomena.
-
     </p>
     
     <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Planetary seismology as a test of fundamental physics</h3>
@@ -77,6 +76,11 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
     <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Big Bang Nucleosynthesis beyond GR</h3>
     <p style="font-family: 'Georgia', serif; text-align: justify;">
       The abundance of light elements formed shortly after the universe’s creation is sensitive to the cosmological models provided by alternative gravity theories. These theoretical predictions are compared with observed ratios of light elements like lithium to hydrogen. Dr. Wojnar has shown that such element abundances differ in gravity theories, challenging common approaches to solving the “cosmological lithium problem.”
+    </p>
+
+        <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Thermodynamics and gravity</h3>
+    <p style="font-family: 'Georgia', serif; text-align: justify;">
+      TBW.”
     </p>
   </div>
   
@@ -132,6 +136,17 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
   <div style="overflow: hidden; width: 100%; max-width: 600px;">
     <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
       <img src="{{ site.baseurl }}/assets/images/research/lit.jpg" alt="Collaborator 1" 
+           style="width: 150px; height: auto; object-fit: contain;">
+      <img src="{{ site.baseurl }}/assets/images/research/nucleosynthesis.jpg" alt="Collaborator 2" 
+           style="width: 150px; height: auto; object-fit: contain;">
+    </div>
+  </div>
+
+
+   <!-- Thermodynamics and gravity -->
+  <div style="overflow: hidden; width: 100%; max-width: 600px;">
+    <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/images/research/photo.jpg" alt="Collaborator 1" 
            style="width: 150px; height: auto; object-fit: contain;">
       <img src="{{ site.baseurl }}/assets/images/research/nucleosynthesis.jpg" alt="Collaborator 2" 
            style="width: 150px; height: auto; object-fit: contain;">
