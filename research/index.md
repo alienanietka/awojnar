@@ -89,7 +89,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
     <figure style="text-align: center; margin: 0;">
       <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Stellar Physics" 
            style="width: 150px; height: auto; object-fit: contain;">
-      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.9em; color: #555; margin-top: 5px;">
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.5em; color: #555; margin-top: 5px;">
         Débora and Aneta are using the power of chocolate to model stellar evolution.
       </figcaption>
     </figure>
@@ -97,7 +97,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
     <figure style="text-align: center; margin: 0;">
       <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Kaluza-Klein Model" 
            style="width: 150px; height: auto; object-fit: contain;">
-      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.9em; color: #555; margin-top: 5px;">
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.5em; color: #555; margin-top: 5px;">
         Anna and Aneta are discussing the effects of extra dimensions on stars in the middle of the night.
       </figcaption>
     </figure>
