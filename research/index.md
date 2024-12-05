@@ -60,9 +60,12 @@ title: "Research"
 <div style="display: flex; gap: 40px; margin-top: 20px; align-items: flex-start;">
   <!-- Left Column: Project Descriptions -->
   <div style="flex: 1;">
-    <h3 style="font-family: 'Georgia', serif;">Astrophysical matter in gravity theories</h3>
+    <h3 style="font-family: 'Georgia', serif;">Theoretical astrophysics</h3>
     <p style="font-family: 'Georgia', serif; text-align: justify;">
-      Gravity models like scalar-tensor and metric-affine theories aim to address gaps in General Relativity (GR) while modifying Newtonian limits. This impacts the evolution and structure of stars, white dwarfs, and planets, offering tools to test gravity theories and dark matter models. Observational methods, such as the lithium depletion technique for dating stars, depend on the underlying gravity theory.
+      To model any astrophysical object (whether it's one you see in the sky or one you step on), a set of equations is required to describe the fundamental interactions: gravity, electromagnetic, weak, and strong forces (and potentially a fifth force if scalar fields are considered). Modifying these fundamental equations, particularly those governing gravity, can lead to <strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0370157320302507?via%3Dihub" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">observable effects on astrophysical bodies</a></strong>. Einstein’s General Theory of Relativity, while revolutionary, fails to fully explain certain phenomena, such as dark matter, the accelerated expansion of the Universe, and other discrepancies at cosmological scales.
+    </p>
+    <p style="font-family: 'Georgia', serif; text-align: justify;">
+To address these challenges, scientists develop <strong><a href="https://link.springer.com/book/10.1007/978-3-030-83715-0" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Modified Gravity</a></strong> or Extended Theories of Gravity, including scalar-tensor and metric-affine models. These theories not only aim to bridge the gaps in General Relativity but also affect the Newtonian limit, influencing the structure and evolution of stars, white dwarfs, and planets. Such modifications provide tools to test gravity theories and constrain dark matter models through astrophysical observations. Furthermore, certain observational techniques, such as the lithium depletion method for dating stars, depend sensitively on the underlying gravitational framework, underscoring the interplay between fundamental physics and stellar evolution.
     </p>
     
     <h3 style="font-family: 'Georgia', serif; margin-top: 30px;">Planetary seismology as a test of fundamental physics</h3>
