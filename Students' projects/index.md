@@ -62,7 +62,7 @@
 1. **Estimating the Effects of the 2010 Chile Earthquake on Industrial Facilities**  
    *(Available)*  
    The idea would involve analyzing deductions from power consumption statistics and understanding how Astroteq.ai's earthquakes forecasting system could have helped in the past and can help in the future with the reduction of the impact and damage by allowing proper mitigative steps to be taken before the earthquake arrives. The calculations will be done based on FEMA's disaster damage reduction manual.  
-   *Target student*: Preferably from econophysics. This project can be done as part of a traineeship at Astroteq.ai.
+   *Target student*: Preferably from econophysics. This project can be done as part of a traineeship at <strong><a href="https://astroteq.ai/" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Astroteq.ai</a></strong>.
 
 2. **Light Elements Burning in Low-Mass Stars**  
   *(Available)*   
