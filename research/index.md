@@ -81,15 +81,28 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
   
  <!-- Right Column: Photo Galleries -->
 <div style="flex: 1; display: flex; flex-direction: column; align-items: center; gap: 30px;">
-  <!-- Astrophysical matter in gravity theories -->
-  <div style="overflow: hidden; width: 100%; max-width: 600px;">
-    <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-      <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Collaborator 1" 
+<!-- Astrophysical matter in gravity theories -->
+<div style="overflow: hidden; width: 100%; max-width: 600px;">
+  <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <!-- Image 1 with caption -->
+    <figure style="text-align: center; margin: 0;">
+      <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Stellar Physics" 
            style="width: 150px; height: auto; object-fit: contain;">
-      <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Collaborator 2" 
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.9em; color: #555; margin-top: 5px;">
+        Debora and Aneta using the chocolate power to model stars
+      </figcaption>
+    </figure>
+    <!-- Image 2 with caption -->
+    <figure style="text-align: center; margin: 0;">
+      <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Kaluza-Klein Model" 
            style="width: 150px; height: auto; object-fit: contain;">
-    </div>
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.9em; color: #555; margin-top: 5px;">
+        Anna and Aneta discussing effects of extra dimensions on stars
+      </figcaption>
+    </figure>
   </div>
+</div>
+
   
   <!-- Planetary seismology as a test of fundamental physics -->
   <div style="overflow: hidden; width: 100%; max-width: 600px;">
