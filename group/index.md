@@ -211,7 +211,7 @@ title: "Group"
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
       <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
-        Jackson Levi Said
+        Christian Pfeife
       </p>
  <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
     Christian Pfeifer is a <strong>Postdoctoral Researcher</strong> at the <strong>Center of Applied Space Technology and Microgravity (ZARM)</strong> at the <strong>University of Bremen</strong>, leading the research project "Momentum and velocity-dependent spacetime geometries: Traces of quantum gravity, fields in media and the gravitational field of kinetic gases".
@@ -222,8 +222,11 @@ title: "Group"
  <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
     His work includes the gravitational field of kinetic gases, modified dispersion relations, radar length in non-metric geometries, and the implications of Finslerian structures on gravity and electrodynamics. These areas are significant in <strong>understanding potential deviations from standard relativistic physics</strong> and exploring physics beyond the standard model.
 </p>
+       <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+    In addition, he is very active in organizing conferences like the yearly <a href="http://geomgrav.fi.ut.ee/conf/geomgrav2025/" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Tartu Gravity Conference</a>, schools such as <a href="https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Searching for Quantum Gravity in the Sky</a>, and community networks like the COST actions <a href="https://www.cost.eu/actions/CA18108/" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Quantum Gravity Phenomenology in the Multi Messenger Approach (QGMM)</a> or <a href="https://www.cost.eu/actions/CA23130/" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Bridging High and Low Energies in Search of Quantum Gravity (BridgeQG)</a>.
+</p>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-       Visit Christian's <a href="[https://cosmoversetensions.eu/](https://sites.google.com/view/dr-christian-pfeifer/startseite)" 
+       Visit Christian's <a href="https://sites.google.com/view/dr-christian-pfeifer/startseite" 
            style="color: #1e90ff; text-decoration: none; font-weight: bold;">website</a> to learn more about him and his research!
       </p>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
