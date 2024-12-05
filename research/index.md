@@ -156,7 +156,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
     </figure>
      <!-- Image 2 with caption -->
     <figure style="text-align: center; margin: 0;">
-      <img src="{{ site.baseurl }}/assets/images/research/photo.jpg" alt="Planetary Seismology" 
+      <img src="{{ site.baseurl }}/assets/images/research/photo.jpg" alt="ncg" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
         ...
