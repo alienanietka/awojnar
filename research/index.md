@@ -151,7 +151,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
       <img src="{{ site.baseurl }}/assets/images/research/bridge.jpg" alt="Seismic Data" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
-        Christian and Aneta are talking about Quantum Gravity Bridge (<strong><a href="https://www.cost.eu/actions/CA23130/" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">BridgeQG</a></strong>) and its role in thermodynamics. 
+        Christian and Aneta are discussing the Quantum Gravity Bridge (<strong><a href="https://www.cost.eu/actions/CA23130/" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">BridgeQG</a></strong>) and its role in thermodynamics until sunrise in Tartu, Estonia.
       </figcaption>
     </figure>
      <!-- Image 2 with caption -->
