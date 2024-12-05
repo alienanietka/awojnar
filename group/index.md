@@ -88,7 +88,7 @@ title: "Group"
       metrics within this formalism.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-      Aleksander has also studied the effects of modified gravity on terrestrial planets, including Earth. Collaborating with Aneta Wojnar, 
+      Aleksander has also studied the effects of modified gravity on terrestrial planets, including Earth. Collaborating with <strong>Aneta Wojnar</strong>, 
       he showed that <strong>seismic data can constrain modified gravity models</strong> by revealing how these theories alter the 
       internal structure of massive objects through modifications to the Newtonian limit. Their future research will extend this 
       work to denser astrophysical objects, such as neutron stars.
