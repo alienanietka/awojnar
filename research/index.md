@@ -116,7 +116,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
         Aleksander and Aneta wearing Estonian hats, working on seismic data as a possible test of fundamental physics.
       </figcaption>
     </figure>
-<!--     <!-- Image 2 with caption -->
+     <!-- Image 2 with caption -->
     <figure style="text-align: center; margin: 0;">
       <img src="{{ site.baseurl }}/assets/images/research/planet.jpg" alt="Planetary Seismology" 
            style="width: 150px; height: auto; object-fit: contain;">
@@ -125,7 +125,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
       </figcaption>
     </figure>
   </div>
-</div> -->
+</div> 
 
   
   <!-- Big Bang Nucleosynthesis beyond GR -->
