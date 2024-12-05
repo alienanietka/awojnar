@@ -211,7 +211,7 @@ title: "Group"
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
       <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
-        Christian Pfeife
+        Christian Pfeifer
       </p>
  <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
     Christian Pfeifer is a <strong>Postdoctoral Researcher</strong> at the <strong>Center of Applied Space Technology and Microgravity (ZARM)</strong> at the <strong>University of Bremen</strong>, leading the research project "Momentum and velocity-dependent spacetime geometries: Traces of quantum gravity, fields in media and the gravitational field of kinetic gases".
