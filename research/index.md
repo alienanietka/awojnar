@@ -89,7 +89,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
     <figure style="text-align: center; margin: 0;">
       <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Stellar Physics" 
            style="width: 150px; height: auto; object-fit: contain;">
-      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.5em; color: #555; margin-top: 5px;">
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
         Débora and Aneta are using the power of chocolate to model stellar evolution.
       </figcaption>
     </figure>
@@ -97,7 +97,7 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
     <figure style="text-align: center; margin: 0;">
       <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Kaluza-Klein Model" 
            style="width: 150px; height: auto; object-fit: contain;">
-      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.5em; color: #555; margin-top: 5px;">
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
         Anna and Aneta are discussing the effects of extra dimensions on stars in the middle of the night.
       </figcaption>
     </figure>
@@ -105,15 +105,28 @@ To address these challenges, scientists develop <strong><a href="https://link.sp
 </div>
 
   
-  <!-- Planetary seismology as a test of fundamental physics -->
-  <div style="overflow: hidden; width: 100%; max-width: 600px;">
-    <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-      <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Collaborator 1" 
+ <!-- Planetary seismology as a test of fundamental physics -->
+<div style="overflow: hidden; width: 100%; max-width: 600px;">
+  <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <!-- Image 1 with caption -->
+    <figure style="text-align: center; margin: 0;">
+      <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Seismic Data" 
            style="width: 150px; height: auto; object-fit: contain;">
-      <img src="{{ site.baseurl }}/assets/images/research/planet.jpg" alt="Collaborator 2" 
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
+        Aleksander and Aneta wearing Estonian hats, working on seismic data as a possible test of fundamental physics.
+      </figcaption>
+    </figure>
+<!--     <!-- Image 2 with caption -->
+    <figure style="text-align: center; margin: 0;">
+      <img src="{{ site.baseurl }}/assets/images/research/planet.jpg" alt="Planetary Seismology" 
            style="width: 150px; height: auto; object-fit: contain;">
-    </div>
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
+        Aleksander and Aneta wearing Estonian hats, working on seismic data as a possible test of fundamental physics.
+      </figcaption>
+    </figure>
   </div>
+</div> -->
+
   
   <!-- Big Bang Nucleosynthesis beyond GR -->
   <div style="overflow: hidden; width: 100%; max-width: 600px;">
