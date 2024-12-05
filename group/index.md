@@ -204,7 +204,37 @@ title: "Group"
     </div>
   </div>
 
-  <!-- Collaborator 2 -->
+    <!-- Collaborator 1 -->
+  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+    <img src="{{ site.baseurl }}/assets/images/group/Jackson.jpg" alt="Jackson Levi Said" 
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div>
+      <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+        Jackson Levi Said
+      </p>
+ <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+    Christian Pfeifer is a <strong>Postdoctoral Researcher</strong> at the <strong>Center of Applied Space Technology and Microgravity (ZARM)</strong> at the <strong>University of Bremen</strong>, leading the research project "Momentum and velocity-dependent spacetime geometries: Traces of quantum gravity, fields in media and the gravitational field of kinetic gases".
+</p>
+ <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+    His research is primarily focused on <strong>theoretical mathematical physics</strong>, particularly in the areas of general relativity, <strong>Finsler and Hamiltonian spacetimes</strong>, and <strong>quantum gravity phenomenology</strong>. He explores the mathematical foundations and physical implications of extending classical metric geometry to more generalized geometrical frameworks, such as Finsler and Hamiltonian spacetimes as well as <strong>metric affine gravity</strong>.
+</p>
+ <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+    His work includes the gravitational field of kinetic gases, modified dispersion relations, radar length in non-metric geometries, and the implications of Finslerian structures on gravity and electrodynamics. These areas are significant in <strong>understanding potential deviations from standard relativistic physics</strong> and exploring physics beyond the standard model.
+</p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+       Visit Christian's <a href="[https://cosmoversetensions.eu/](https://sites.google.com/view/dr-christian-pfeifer/startseite)" 
+           style="color: #1e90ff; text-decoration: none; font-weight: bold;">website</a> to learn more about him and his research!
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        For more information on his publications, visit his 
+        <a href="https://inspirehep.net/authors/1270463?ui-citation-summary=true" target="_blank" 
+           style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+      </p>
+    </div>
+  </div>
+
+  <!-- Collaborator 3 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
