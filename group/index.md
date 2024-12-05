@@ -190,7 +190,10 @@ title: "Group"
         This involves both local distance ladder and early Universe cosmic microwave background data sets. He also works on 
         developing new <strong>machine learning-driven data analysis</strong> toolkits that use the emerging suite of artificial 
         intelligence techniques to explore the model space of new physics using these more sophisticated numerical techniques. 
-        He collaborates with our group on the project related to the problems of the <strong>Big Bang Nucleosynthesis</strong>. Jackson is also a Chairperson of the COST Action <a href="https://cosmoversetensions.eu/" 
+        He collaborates with our group on the project related to the problems of the <strong>Big Bang Nucleosynthesis</strong>. 
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+       Jackson is also a Chairperson of the COST Action <a href="https://cosmoversetensions.eu/" 
            style="color: #1e90ff; text-decoration: none; font-weight: bold;">CosmoVerse</a>. 
       </p>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
