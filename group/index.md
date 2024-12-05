@@ -204,9 +204,9 @@ title: "Group"
     </div>
   </div>
 
-    <!-- Collaborator 1 -->
+    <!-- Collaborator 2 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-    <img src="{{ site.baseurl }}/assets/images/group/Jackson.jpg" alt="Jackson Levi Said" 
+    <img src="{{ site.baseurl }}/assets/images/group/christian.jpg" alt="Christian Pfeifer" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
