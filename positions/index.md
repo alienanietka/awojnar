@@ -100,7 +100,6 @@ title: "Positions"
     </li>
   </ul>
 
-  <p>Participating in an Erasmus+ traineeship can provide invaluable international work experience and improve your skills and employability. If you are interested, please feel free to contact us for more information and guidance on how to apply!</p>
 </div>
 
 
