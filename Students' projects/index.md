@@ -54,7 +54,11 @@
 </nav>
 
 
-<h3 style="font-family: 'Georgia', serif; font-size: 1.8em; font-weight: bold; color: #333; margin-bottom: 15px;">Didn’t find anything that suits your interests, but you’d like to explore research in gravity or theoretical astrophysics? Are you going to be a specialist in astrophysical data? Feel free to contact me, and we can work together to develop a topic tailored to your interests.</h3>
+<h3 style="font-family: 'Georgia', serif; font-size: 1.8em; font-weight: bold; color: #333; margin-bottom: 15px; text-align: center;">
+  Didn’t find anything that suits your interests, but you’d like to explore research in gravity or theoretical astrophysics? 
+  <br>
+  Are you going to be a specialist in astrophysical data? Feel free to contact me, and we can work together to develop a topic tailored to your interests.
+</h3>
 
 <h3 style="font-family: 'Georgia', serif; font-size: 1.8em; font-weight: bold; color: #333; margin-bottom: 15px;">Bachelor Thesis Topics:</h3>
 
