@@ -71,6 +71,11 @@ If you are interested in joining our group as a postdoc, there are several indiv
 
 If you are interested, please feel free to reach out via email! aneta.wojnar2@uwr.edu.pl
 
+## Traineeships for Students
+
+If you are a student interested in gaining practical experience, there are excellent opportunities available through the Erasmus+ programme:
+
+- **[Erasmus+ Traineeships](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students)**: This program supports traineeships (work placements or internships) abroad for students enrolled in higher education at Bachelor, Master, or Doctoral levels, as well as for recent graduates. These traineeships can last between 2 and 12 months and are available in a wide range of workplace environments across Programme Countries.
 
 
 
@@ -85,8 +90,3 @@ If you are interested, please feel free to reach out via email! aneta.wojnar2@uw
 
 
 
-
-<h2>Positions</h2>
-<p>
-  In this section, information regarding open positions, such as PhD, postdoc, and internships, will be posted.
-</p>
