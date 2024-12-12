@@ -71,11 +71,22 @@ If you are interested in joining our group as a postdoc, there are several indiv
 
 If you are interested, please feel free to reach out via email! aneta.wojnar2@uwr.edu.pl
 
-## Traineeships for Students
 
-If you are a student interested in gaining practical experience, there are excellent opportunities available through the Erasmus+ programme:
 
-- **[Erasmus+ Traineeships](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students)**: This program supports traineeships (work placements or internships) abroad for students enrolled in higher education at Bachelor, Master, or Doctoral levels, as well as for recent graduates. These traineeships can last between 2 and 12 months and are available in a wide range of workplace environments across Programme Countries.
+<h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Traineeships for Students</h1>
+
+<div style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; text-align: justify;">
+  <p>If you are a student interested in gaining practical experience, there are excellent opportunities available through the Erasmus+ programme:</p>
+
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>
+      <strong><a href="https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/traineeships-abroad-for-students" style="color: #0066cc; text-decoration: none;">Erasmus+ Traineeships</a></strong>: This program supports traineeships (work placements or internships) abroad for students enrolled in higher education at Bachelor, Master, or Doctoral levels, as well as for recent graduates. These traineeships can last between 2 and 12 months and are available in a wide range of workplace environments across Programme Countries.
+    </li>
+  </ul>
+
+  <p>Participating in an Erasmus+ traineeship can provide invaluable international work experience and improve your skills and employability. If you are interested, please feel free to contact us for more information and guidance on how to apply!</p>
+</div>
+
 
 
 
