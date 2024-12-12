@@ -80,7 +80,6 @@ title: "Research"
       TBW.
     </p>
   </div>
-</div>
 
   
  <!-- Right Column: Photo Galleries -->
