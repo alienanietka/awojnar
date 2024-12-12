@@ -57,19 +57,29 @@ title: "Positions"
   </ul>
 </nav>
 
-## Join Our Group as a Postdoc
+<h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Join Our Group as a Postdoc</h1>
 
-If you are interested in joining our group as a postdoc, there are several individual fellowship opportunities to explore. These programs provide excellent research conditions and funding support:
+<div style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; text-align: justify;">
+  <p>If you are interested in joining our group as a postdoc, there are several individual fellowship opportunities to explore. These programs provide excellent research conditions and funding support:</p>
 
-1. **[SONATINA](https://www.ncn.gov.pl/en/finansowanie-nauki/konkursy/typy/11)**: Offered by the National Science Center, this program is for researchers who earned their PhD within three years before the proposal submission or will complete their PhD by June 30 of the call year. It provides funding for up to three years. Calls usually open in mid-December and close in mid-March.
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>
+      <strong><a href="https://www.ncn.gov.pl/en/finansowanie-nauki/konkursy/typy/11" style="color: #0066cc; text-decoration: none;">SONATINA</a></strong>: Offered by the National Science Center, this program is for researchers who earned their PhD within three years before the proposal submission or will complete their PhD by June 30 of the call year. It provides funding for up to three years. Calls usually open in mid-December and close in mid-March.
+    </li>
+    <li>
+      <strong><a href="https://nawa.gov.pl/en/scientists/the-ulam-programme" style="color: #0066cc; text-decoration: none;">Ulam NAWA Programme</a></strong>: This fellowship supports postdoctoral research for durations ranging from 6 months to 2 years. Applications typically open in early February and close in early May. If you hold a <a href="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/seal-excellence_en" style="color: #0066cc; text-decoration: none;">Seal of Excellence</a> from a previous Marie Skłodowska-Curie Fellowship application, you may benefit from a fast-track process.
+    </li>
+    <li>
+      <strong><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" style="color: #0066cc; text-decoration: none;">Marie Skłodowska-Curie European Postdoctoral Fellowships</a></strong>: These fellowships offer excellent career opportunities. Even if your proposal is not funded, you may receive a Seal of Excellence, which can help secure funding from other sources. Calls usually open in June and close in October.
+    </li>
+    <li>
+      <strong><a href="https://polonezbis.eu/en/programme/" style="color: #0066cc; text-decoration: none;">POLONEZ BIS</a></strong>: This program supports researchers from any discipline, nationality, age, or gender, offering an opportunity to develop professional skills in top Polish research institutions. Fellows independently design their career development plan while collaborating with outstanding supervisors. Calls for applications are held periodically.
+    </li>
+  </ul>
 
-2. **[Ulam NAWA Programme](https://nawa.gov.pl/en/scientists/the-ulam-programme)**: This fellowship supports postdoctoral research for durations ranging from 6 months to 2 years. Applications typically open in early February and close in early May. If you hold a [Seal of Excellence](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/seal-excellence_en) from a previous Marie Skłodowska-Curie Fellowship application, you may benefit from a fast-track process.
+  <p>If you are interested, please feel free to reach out via email! <a href="mailto:aneta.wojnar2@uwr.edu.pl" style="color: #0066cc; text-decoration: none;">aneta.wojnar2@uwr.edu.pl</a></p>
+</div>
 
-3. **[Marie Skłodowska-Curie European Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)**: These fellowships offer excellent career opportunities. Even if your proposal is not funded, you may receive a Seal of Excellence, which can help secure funding from other sources. Calls usually open in June and close in October.
-
-4. **[POLONEZ BIS](https://polonezbis.eu/en/programme/)**: This program supports researchers from any discipline, nationality, age, or gender, offering an opportunity to develop professional skills in top Polish research institutions. Fellows independently design their career development plan while collaborating with outstanding supervisors. Calls for applications are held periodically.
-
-If you are interested, please feel free to reach out via email! aneta.wojnar2@uwr.edu.pl
 
 
 
