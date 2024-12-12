@@ -81,6 +81,12 @@ title: "Positions"
 </div>
 
 
+<h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-top: 40px; margin-bottom: 20px;">Open Position</h1>
+
+<div style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; text-align: justify;">
+  <p>Currently, there are no open postdoctoral positions available. Please check back later or consider applying for one of the fellowship opportunities listed above. For any inquiries, feel free to contact <a href="mailto:aneta.wojnar2@uwr.edu.pl" style="color: #0066cc; text-decoration: none;">aneta.wojnar2@uwr.edu.pl</a>.</p>
+</div>
+
 
 
 <h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Traineeships for Students</h1>
