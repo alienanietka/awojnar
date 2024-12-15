@@ -149,6 +149,27 @@ title: "Group"
 
 <!-- Member 4 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
+  <img src="{{ site.baseurl }}/assets/images/group/seba.jpeg" alt="Sebastian Marczyński" 
+       style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div>
+    <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+      Sebastian Marczyński 
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      <em>BSc Thesis:</em> Concept of Mass in Extensions of General Relativity
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      Sebastian Marczyński  is a <strong>Bachelor's student</strong> at the <strong>University of Wrocław</strong>, Poland, currently working under the supervision of 
+      <strong>Aneta Wojnar</strong>. His research focuses on the <strong>light elements burning in low-mass stars</strong>.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+    In his free time....
+    </p>
+  </div>
+</div>
+
+<!-- Member 5 -->
+<div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
   <img src="{{ site.baseurl }}/assets/images/group/dr.jpg" alt="Dhrubajyoti Rakshit" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
