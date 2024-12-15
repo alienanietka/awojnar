@@ -100,6 +100,12 @@ title: "Positions"
     </li>
   </ul>
 
+   <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>
+      <strong><a href="https://astroteq.ai/" style="color: #0066cc; text-decoration: none;">Traineeships in Astroteq.ai</a></strong>: You can pursue a bachelor’s or master’s thesis based on internships in cutting-edge technologies (such as deep learning), research topics (including mathematics, particle physics, atmospheric studies, gravity, and geophysics), or programming. This offers you the opportunity to gain valuable work experience while simultaneously enhancing the skills you acquire at the University of Wrocław, Poland.
+    </li>
+  </ul>
+
 </div>
 
 
