@@ -72,7 +72,7 @@
 
   <li>
     <strong>Light Elements Burning in Low-Mass Stars</strong><br>
-    <em>(Available)</em><br>
+    <em>(Assigned)</em><br>
     This thesis explores the impact of modified gravity on the burning processes of light elements in low-mass stars. By analyzing changes in stellar structure and evolution under alternative gravitational theories, the study aims to understand how these modifications influence energy generation and observational properties of low-mass stars.
   </li>
 
