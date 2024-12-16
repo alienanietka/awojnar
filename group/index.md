@@ -153,23 +153,25 @@ title: "Group"
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
-     Dominika Klag
+      Dominika Klag
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       <em>BSc Thesis:</em> Searching for the Dark Sector of the Universe in Stars
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       Dominika Klag is a <strong>Bachelor's student</strong> at the <strong>University of Wrocław</strong>, Poland, currently working under the supervision of 
-      <strong>Aneta Wojnar</strong>. She is searching for the  <strong>Dark Sector of the Universe in Stars </strong>.  
+      <strong>Aneta Wojnar</strong>. She is researching the <strong>Dark Sector of the Universe in Stars</strong>.
+    </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-    In her free time....
+      In her free time, Dominika enjoys...
     </p>
   </div>
 </div>
 
+
 <!-- Member 5 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
-  <img src="{{ site.baseurl }}/assets/images/group/seba.jpeg" alt="Marcin Klinkosz" 
+  <img src="{{ site.baseurl }}/assets/images/group/mar.jpeg" alt="Marcin Klinkosz" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
