@@ -328,7 +328,7 @@ title: "Group"
       </p>
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
         For more information on her publications, visit her 
-        <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" 
+        <a href="https://inspirehep.net/authors/1907023?ui-citation-summary=true" target="_blank" 
            style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
       </p>
     </div>
