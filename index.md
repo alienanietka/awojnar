@@ -65,7 +65,7 @@ title: "Aneta Wojnar - Homepage"
 
   <!-- Right Column: Description -->
   <div style="flex: 1; max-width: 600px;">
-    <h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Homepage of Dr. Aneta Wojnar</h2>
+    <h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; margin-bottom: 20px;">Homepage of Dr. Aneta Wojnar (/aˈnɛ.ta ˈvɔj.nar/)</h2>
 
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; margin-bottom: 20px;">
       I am a <strong>Professor Assistant</strong> at the University of Wrocław and a <strong>Research Fellow</strong> at Complutense University of Madrid. My research primarily focuses on <em>gravity</em> and <em>thermodynamics of gravitational systems</em>.
