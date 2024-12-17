@@ -74,11 +74,10 @@ title: "Women in Science"
          see this article
       </a>).
     </p>
-
     <!-- Zdjęcie i podpis -->
     <div style="margin-top: 20px; text-align: center;">
-      <img src="{{ site.baseurl }}/assets/images/women/tartu2014.jpg" alt="Female representation in Tartu 2024" 
-           style="width: 100%; max-width: 400px; height: auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+     <img src="{{ site.baseurl }}/assets/images/women/tartu2014.jpg" alt="Female representation in Tartu 2024" 
+     style="width: 100%; max-width: 600px; height: auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
       <p style="font-family: 'Georgia', serif; font-size: 0.9em; color: #555; margin-top: 10px;">
         Female representation at the conference held in Tartu, Estonia, 
         <a href="http://geomgrav.fi.ut.ee/conf/maffgrav2024/" 
