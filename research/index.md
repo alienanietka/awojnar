@@ -92,7 +92,7 @@ title: "Research"
       <img src="{{ site.baseurl }}/assets/images/research/stellar.jpg" alt="Stellar Physics" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
-        Débora and Aneta are using the power of chocolate to model stellar evolution.
+        Débora and Aneta are using the power of chocolate to model stellar evolution in Riga, Latvia.
       </figcaption>
     </figure>
     <!-- Image 2 with caption -->
@@ -100,7 +100,7 @@ title: "Research"
       <img src="{{ site.baseurl }}/assets/images/research/KK.jpg" alt="Kaluza-Klein Model" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
-        Anna and Aneta are discussing the effects of extra dimensions on stars in the middle of the night.
+        Anna and Aneta are discussing the effects of extra dimensions on stars in the middle of the night in Budapest, Hungary.
       </figcaption>
     </figure>
   </div>
@@ -115,7 +115,7 @@ title: "Research"
       <img src="{{ site.baseurl }}/assets/images/research/seis.jpg" alt="Seismic Data" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
-        Aleksander and Aneta wearing Estonian hats, working on seismic data as a possible test of fundamental physics.
+        Aleksander and Aneta wearing Estonian hats, working on seismic data as a possible test of fundamental physics, somewhere in Estonia.
       </figcaption>
     </figure>
      <!-- Image 2 with caption -->
