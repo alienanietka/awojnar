@@ -99,6 +99,12 @@ title: "Women in Science"
       dedicated to our research and to addressing the current situation of women in science.
     </p>
 
+        <!-- Image -->
+    <div style="margin-top: 20px; text-align: center;">
+      <img src="{{ site.baseurl }}/assets/images/women/women.png" alt="Inspiring Women in Science" 
+           style="width: 100%; max-width: 400px; height: auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    </div>
+
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6;">
       During my scientific journey, I have met many inspiring female physicists who have significantly influenced my career. These include: 
       <a href="https://annapachol.wordpress.com/" target="_blank" style="color: #0077cc;">Anna Pachoł</a>, 
@@ -120,11 +126,7 @@ title: "Women in Science"
       <a href="https://inspirehep.net/authors/1969588?ui-citation-summary=true" target="_blank" style="color: #0077cc;">Lupamudra Sarmah</a>.
     </p>
 
-    <!-- Image -->
-    <div style="margin-top: 20px; text-align: center;">
-      <img src="{{ site.baseurl }}/assets/images/women/women.png" alt="Inspiring Women in Science" 
-           style="width: 100%; max-width: 400px; height: auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    </div>
+
   </div>
 
 </div>
