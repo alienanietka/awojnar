@@ -88,32 +88,32 @@ title: "Women in Science"
     </div>
   </div>
 
- <!-- Right Column -->
-<div style="flex: 1; text-align: justify;">
-  <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6;">
-    I am extremely proud to contribute to this <a href="https://link.springer.com/book/10.1007/978-3-031-42096-2" target="_blank" style="color: #0077cc;">unique volume</a>, where every chapter is written by a woman. The editors of this remarkable work are 
-    <a href="https://www.ucl.ac.uk/~ucahbha/" target="_blank" style="color: #0077cc;">Betti Hartmann</a> and 
-    <a href="https://uol.de/en/fieldtheory/members/prof-dr-jutta-kunz-drolshagen" target="_blank" style="color: #0077cc;">Jutta Kunz</a>. 
-    Together with Betti, I had the great pleasure of participating as an invited speaker at the 
-    <a href="https://www.festivalscienza.it/edizione-2023" target="_blank" style="color: #0077cc;">Festival della Scienza 2023</a>, 
-    dedicated to our research and to addressing the current situation of women in science.
-  </p>
+<!-- Right Column -->
+  <div style="flex: 1; min-width: 300px;">
 
-  <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6;">
-    The foreword of this exceptional book is written by 
-    <a href="https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell" target="_blank" style="color: #0077cc;">Jocelyn Bell Burnell</a>, 
-    who discovered the first radio pulsars in 1967!
-  </p>
-</div>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
+      I am extremely proud to contribute to this 
+      <a href="https://link.springer.com/book/10.1007/978-3-031-42096-2" target="_blank" style="color: #0077cc;">unique volume</a>, 
+      where every chapter is written by a woman. The editors of this remarkable work are 
+      <a href="https://www.ucl.ac.uk/~ucahbha/" target="_blank" style="color: #0077cc;">Betti Hartmann</a> and 
+      <a href="https://uol.de/en/fieldtheory/members/prof-dr-jutta-kunz-drolshagen" target="_blank" style="color: #0077cc;">Jutta Kunz</a>. 
+      Together with Betti, I had the great pleasure of participating as an invited speaker at the 
+      <a href="https://www.festivalscienza.it/edizione-2023" target="_blank" style="color: #0077cc;">Festival della Scienza 2023</a>, 
+      dedicated to our research and to addressing the current situation of women in science.
+    </p>
 
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
+      The foreword of this exceptional book is written by 
+      <a href="https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell" target="_blank" style="color: #0077cc;">Jocelyn Bell Burnell</a>, 
+      who discovered the first radio pulsars in 1967!
+    </p>
 
-        <!-- Image -->
     <div style="margin-top: 20px; text-align: center;">
       <img src="{{ site.baseurl }}/assets/images/women/women.png" alt="Inspiring Women in Science" 
            style="width: 100%; max-width: 400px; height: auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     </div>
 
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
       During my scientific journey, I have met many inspiring female physicists who have significantly influenced my career. These include: 
       <a href="https://annapachol.wordpress.com/" target="_blank" style="color: #0077cc;">Anna Pachoł</a>, 
       <a href="https://uol.de/en/fieldtheory/members/prof-dr-jutta-kunz-drolshagen" target="_blank" style="color: #0077cc;">Jutta Kunz</a>, 
@@ -124,7 +124,7 @@ title: "Women in Science"
       <a href="https://sites.google.com/view/mjguzman" target="_blank" style="color: #0077cc;">María José Guzmán</a>.
     </p>
 
-    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6;">
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
       It has also been extremely inspiring to work alongside my younger colleagues, whose passion for physics and determination energize me to keep pushing forward. These include: 
       <a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=merce%20guerrero&ui-citation-summary=true" target="_blank" style="color: #0077cc;">Mercè Guerrero</a>, 
       <a href="https://inspirehep.net/authors/2085236?ui-citation-summary=true" target="_blank" style="color: #0077cc;">Débora Aguiar Gomes</a>, 
@@ -134,9 +134,7 @@ title: "Women in Science"
       <a href="https://inspirehep.net/authors/1969588?ui-citation-summary=true" target="_blank" style="color: #0077cc;">Lupamudra Sarmah</a>.
     </p>
 
-
   </div>
-
 </div>
 
 
