@@ -182,7 +182,7 @@ title: "Group"
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
      Marcin Klinkosz is a <strong>Bachelor's student</strong> at the <strong>University of Wrocław</strong>, Poland, currently working under the supervision of 
-      <strong>Aneta Wojnar</strong>. His scientific interests are related to the physics of <strong>the Solar System planet and exoplanets</strong>.
+      <strong>Aneta Wojnar</strong>. His scientific interests are related to the physics of <strong>the Solar System planets and exoplanets</strong>.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
     In his free time....
