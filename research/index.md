@@ -103,6 +103,14 @@ title: "Research"
         Anna and Aneta are discussing the effects of extra dimensions on stars in the middle of the night in Budapest, Hungary.
       </figcaption>
     </figure>
+      <!-- Image 3 with caption -->
+    <figure style="text-align: center; margin: 0;">
+      <img src="{{ site.baseurl }}/assets/images/research/pizza.jpg" alt="NS" 
+           style="width: 150px; height: auto; object-fit: contain;">
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
+        Anna, Pablo, Eva, and Aneta are enjoying Neutron Star pizza in Madrid, Spain.
+      </figcaption>
+    </figure>
   </div>
 </div>
 
