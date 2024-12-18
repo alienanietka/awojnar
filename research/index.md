@@ -106,7 +106,7 @@ title: "Research"
       <!-- Image 3 with caption -->
     <figure style="text-align: center; margin: 0;">
       <img src="{{ site.baseurl }}/assets/images/research/pizza.jpg" alt="NS" 
-           style="width: 180px; height: auto; object-fit: contain;">
+           style="width: 190px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
         Anna, Pablo, Eva, and Aneta are enjoying Neutron Star Pizza in Madrid, Spain.
       </figcaption>
