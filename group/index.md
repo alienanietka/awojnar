@@ -153,7 +153,7 @@ title: "Group"
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
-      Dominika Klag
+      Niko Klag
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
       <em>BSc Thesis:</em> Searching for the Dark Sector of the Universe in Stars
@@ -163,7 +163,7 @@ title: "Group"
       <strong>Aneta Wojnar</strong>. She is researching the <strong>Dark Sector of the Universe in Stars</strong>.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-      In her free time, Dominika enjoys...
+      She attempts to become a modern-day bard and considers options to achieve vampirism.
     </p>
   </div>
 </div>
