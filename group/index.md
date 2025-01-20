@@ -322,7 +322,31 @@ title: "Group"
     </div>
   </div>
 
-    <!-- Collaborator 3 -->
+  <!-- Collaborator 3 -->
+  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+    <img src="{{ site.baseurl }}/assets/images/group/eva.jpeg" alt="Eva Lope-Oter" 
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div>
+      <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+        Eva Lope-Oter
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+  Eva holds a Ph.D. in Theoretical Physics from the Complutense University of Madrid, where her research focused on <strong>neutron star equations of state</strong>. She is currently contributing to the project “Effective Theories, Particle Physics, and Cosmology” within the same department.
+Her research interests include Nuclear Theory, High-Energy Astrophysical Phenomena, High-Energy Physics Phenomenology, General Relativity, and Quantum Cosmology.
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+     In her free time, Eva enjoys reading, hiking, and dancing.
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+       For more information on her publications, visit her
+        <a href="https://inspirehep.net/authors/1901864?ui-citation-summary=true" target="_blank" 
+           style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+      </p>
+    </div>
+  </div>
+
+    <!-- Collaborator 4 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/christian.jpeg" alt="Christian Pfeifer" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
@@ -355,7 +379,7 @@ title: "Group"
     </div>
   </div>
 
-  <!-- Collaborator 4 -->
+  <!-- Collaborator 5 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
