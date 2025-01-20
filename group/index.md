@@ -250,7 +250,7 @@ title: "Group"
       Andrzej Szczęśniak is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland. In his scientific project, supervised by <strong>Aneta Wojnar</strong>, Andrzej focuses on the <strong>white dwarf stars data</strong>.
     </p>
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
-      For his <strong>bachelor thesis</strong>, titled <em>“...”</em>, Dhrubajyoti worked under the supervision of ....
+      For his <strong>bachelor thesis</strong>, titled <em>“...”</em>, he worked under the supervision of ....
     </p>
   </div>
 </div>
