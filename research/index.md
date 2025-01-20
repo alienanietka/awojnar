@@ -91,17 +91,10 @@ title: "Research"
     <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Thermodynamics and gravity</h3>
     <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
     <p>
-The consistency of equations in <strong>Modified Gravity (MG)</strong> has been questioned due to numerous findings from prior research. For example, the chemical potential's dependence on gravity suggests that changes in the description of gravitational fields may have significant effects 
-(<a href="https://link.springer.com/article/10.1007/BF00674065" target="_blank">source</a>). 
-MG has been shown to alter the geodesic deviation equation on stellar surfaces, introducing corrections to Hooke’s law and the polytropic equation of state 
-(<a href="https://dx.doi.org/10.1103/PhysRevD.89.064001" target="_blank">source</a>). 
-Furthermore, microscopic quantities such as opacity exhibit modifications, necessitating an effective treatment 
-(<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.124045" target="_blank">source</a>). 
-Corrections to thermodynamic laws, stellar stability criteria, and properties of Fermi gases are also evident, as demonstrated 
-(<a href="https://link.springer.com/article/10.1140/epjc/s10052-016-4549-z" target="_blank">here</a>, 
-<a href="https://link.springer.com/article/10.1140/epjc/s10052-018-5900-3" target="_blank">here</a>, 
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.024028" target="_blank">here</a>, 
-and <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044025" target="_blank">here</a>).
+The consistency of equations in Modified Gravity (MG) has been questioned due to numerous findings from prior research. For example, the chemical potential's dependence on gravity suggests that changes in the description of gravitational fields may have <a href="https://link.springer.com/article/10.1007/BF00674065" target="_blank">significant effects</a>. 
+MG has been shown to alter the geodesic deviation equation on stellar surfaces, introducing <a href="https://dx.doi.org/10.1103/PhysRevD.89.064001" target="_blank">corrections</a> resembling Hooke’s law in the polytropic equation of state. 
+Furthermore, microscopic quantities such as opacity exhibit modifications, providing the so-called <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.124045" target="_blank">effective quantities</a>. 
+Corrections to <a href="https://link.springer.com/article/10.1140/epjc/s10052-016-4549-z" target="_blank">thermodynamic laws</a>, stellar stability criteria (check out <a href="https://link.springer.com/article/10.1140/epjc/s10052-018-5900-3" target="_blank">here</a> and <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.024028" target="_blank">here</a>), and <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044025" target="_blank">properties of Fermi gases</a> are also evident.
 </p>
 
 <p>
