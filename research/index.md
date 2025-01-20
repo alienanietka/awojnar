@@ -69,7 +69,16 @@ title: "Research"
     </p>
     <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Planetary seismology as a test of fundamental physics</h3>
     <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
-      The internal structures of planets like Earth and Mars vary slightly in extended gravity models, making them ideal for testing these theories. Seismic data helps refine gravity models, and future neutrino telescopes are expected to provide even more precise constraints, especially on Earth’s core.
+  The internal structures of planets like Earth and Mars 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.084097" target="_blank">vary</a> 
+  slightly in extended gravity models, making them ideal for testing these theories. 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.044055" target="_blank">Seismic data</a> 
+  helps refine gravity models, and future neutrino telescopes are expected to provide even more precise constraints, especially on Earth’s core. 
+  On the other hand, planets in our Solar System, such as 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104058" target="_blank">Jupiter and Saturn</a>, 
+  as well as exoplanets and their 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.124053" target="_blank">evolutions</a>, 
+  may exhibit behaviors and characteristics that differ from those predicted by Newtonian physics.
     </p>
     <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Big Bang Nucleosynthesis beyond GR</h3>
     <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
