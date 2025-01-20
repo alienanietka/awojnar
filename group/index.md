@@ -266,7 +266,7 @@ title: "Group"
 
   <!-- Collaborator 1 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
-    <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Rebacca Briffa" 
+    <img src="{{ site.baseurl }}/assets/images/group/reb.jpg" alt="Rebacca Briffa" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div>
