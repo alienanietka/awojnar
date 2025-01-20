@@ -286,11 +286,11 @@ title: "Group"
       <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
         For more information on her publications, visit her 
         <a href="https://scholar.google.pl/citations?user=jnXcCbcAAAAJ&hl=pl&oi=ao" target="_blank" 
-        <a href="" target="_blank" 
            style="color: #1e90ff; text-decoration: none; font-weight: bold;">GoogleScholar profile</a>.
       </p>
     </div>
   </div>
+
 
   <!-- Collaborator 2 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
