@@ -83,7 +83,10 @@ title: "Research"
 </p>
     <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Big Bang Nucleosynthesis beyond GR</h3>
     <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
-      The abundance of light elements formed shortly after the universe’s creation is sensitive to the cosmological models provided by alternative gravity theories. These theoretical predictions are compared with observed ratios of light elements like lithium to hydrogen. Dr. Wojnar has shown that such element abundances differ in gravity theories, challenging common approaches to solving the “cosmological lithium problem.”
+      The abundance of light elements formed shortly after the universe’s creation is sensitive to the cosmological models provided by alternative gravity theories. These theoretical predictions are compared with observed ratios of light elements like lithium to hydrogen. I have shown that such <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.044037" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">element abundances differ</a>
+      in gravity theories, 
+      <a href=" https://link.springer.com/article/10.1140/epjc/s10052-023-11659-9" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">challenging</a>
+      common approaches to solving the “cosmological lithium problem.” 
     </p>
     <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Thermodynamics and gravity</h3>
     <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
