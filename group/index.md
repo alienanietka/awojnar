@@ -266,6 +266,34 @@ title: "Group"
 
   <!-- Collaborator 1 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
+    <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Rebacca Briffa" 
+         style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div>
+      <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+       Rebacca Briffa
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        Rebacca Briffa is a <strong>Researcher</strong> at <strong>Institute of Space Sciences and Astronomy, 
+        University of Malta</strong>. 
+       Her passion for the <strong>origins and evolution</strong> of the Universe has driven her research journey in this field. She collaborates with our group on topics related to the <strong>lithium problem and cosmic tensions</strong> in modified gravity. Additionally, she is skilled in using LaTeX as a tool for producing professional and scientific documents. Rebacca was supervised by 
+        <strong> <a href="https://inspirehep.net/authors/1073895" target="_blank" 
+           style="color: #1e90ff; text-decoration: none; font-weight: bold;">Jackson Levi Said</a></strong>.
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        Outside of her academic career, she finds joy in staying active, particularly in rediscovering her love for running. It helps her maintain balance between her research and personal life. 
+      </p>
+      <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+        For more information on her publications, visit her 
+        <a href="https://scholar.google.pl/citations?user=jnXcCbcAAAAJ&hl=pl&oi=ao" target="_blank" 
+        <a href="" target="_blank" 
+           style="color: #1e90ff; text-decoration: none; font-weight: bold;">GoogleScholar profile</a>.
+      </p>
+    </div>
+  </div>
+
+  <!-- Collaborator 2 -->
+  <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/Jackson.jpg" alt="Jackson Levi Said" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
@@ -294,7 +322,7 @@ title: "Group"
     </div>
   </div>
 
-    <!-- Collaborator 2 -->
+    <!-- Collaborator 3 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/christian.jpeg" alt="Christian Pfeifer" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
@@ -327,7 +355,7 @@ title: "Group"
     </div>
   </div>
 
-  <!-- Collaborator 3 -->
+  <!-- Collaborator 4 -->
   <div style="display: flex; align-items: center; gap: 20px; text-align: left;">
     <img src="{{ site.baseurl }}/assets/images/group/ah.jpg" alt="Anna Horváth" 
          style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; 
