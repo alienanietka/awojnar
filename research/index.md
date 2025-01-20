@@ -182,15 +182,20 @@ Finally, thermodynamic quantities and equations of state are further modified in
 </div> 
 
   
-  <!-- Big Bang Nucleosynthesis beyond GR -->
-  <div style="overflow: hidden; width: 100%; max-width: 600px;">
-    <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
-      <img src="{{ site.baseurl }}/assets/images/research/lit.jpg" alt="Collaborator 1" 
+<!-- Big Bang Nucleosynthesis beyond GR -->
+<div style="overflow: hidden; width: 100%; max-width: 600px;">
+  <div style="display: flex; gap: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <!-- Image 1 with caption -->
+    <figure style="text-align: center; margin: 0;">
+      <img src="{{ site.baseurl }}/assets/images/research/lit.jpg" alt="Lithium Problem" 
            style="width: 150px; height: auto; object-fit: contain;">
-      <img src="{{ site.baseurl }}/assets/images/research/nucleosynthesis.jpg" alt="Collaborator 2" 
-           style="width: 150px; height: auto; object-fit: contain;">
-    </div>
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
+       Aleksander,  Débora, and Aneta are creating problems for cosmologists and astrophysicists.
+      </figcaption>
+    </figure>
   </div>
+</div>
+
 
 
    <!-- Thermodynamics and gravity -->
