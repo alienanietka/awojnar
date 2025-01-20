@@ -172,8 +172,8 @@ Finally, thermodynamic quantities and equations of state are further modified in
     </figure>
      <!-- Image 2 with caption -->
     <figure style="text-align: center; margin: 0;">
-      <img src="{{ site.baseurl }}/assets/images/research/buda.jpg" alt="Planetary Seismology" 
-           style="width: 150px; height: auto; object-fit: contain;">
+    <img src="{{ site.baseurl }}/assets/images/research/buda.jpg" alt="Planetary Seismology" 
+     style="width: 225px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
         Anna, Gergely, Edit, and Aneta are wondering about the weird seismic signal in the Eotvos balance experiment in Budapest, Hungary.
       </figcaption>
