@@ -234,6 +234,28 @@ title: "Group"
     </p>
   </div>
 </div>
+
+<!-- Member 8 -->
+<div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
+  <img src="{{ site.baseurl }}/assets/images/group/andrz.jpg" alt="Andrzej Szczęśniak" 
+       style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div>
+    <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+      Andrzej Szczęśniak
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      <em>Scientific project:</em> White stars in modified gravity
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      Andrzej Szczęśniak is a <strong>Master's student</strong> at the <strong>University of Wrocław</strong>, Poland. In his scientific project, supervised by <strong>Aneta Wojnar</strong>, Andrzej focuses on the <strong>white dwarf stars data</strong>.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      For his <strong>bachelor thesis</strong>, titled <em>“...”</em>, Dhrubajyoti worked under the supervision of ....
+    </p>
+  </div>
+</div>
+
+
 </div>
 
 <!-- Collaborators from Other Institutions Section -->
