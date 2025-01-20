@@ -172,10 +172,10 @@ Finally, thermodynamic quantities and equations of state are further modified in
     </figure>
      <!-- Image 2 with caption -->
     <figure style="text-align: center; margin: 0;">
-      <img src="{{ site.baseurl }}/assets/images/research/planet.jpg" alt="Planetary Seismology" 
+      <img src="{{ site.baseurl }}/assets/images/research/buda.jpg" alt="Planetary Seismology" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
-        Aleksander and Aneta wearing Estonian hats, working on seismic data as a possible test of fundamental physics.
+        Anna, Gergely, Edit, and Aneta are wondering about the weird seismic signal in the Eotvos balance experiment in Budapest, Hungary.
       </figcaption>
     </figure>
   </div>
@@ -206,10 +206,18 @@ Finally, thermodynamic quantities and equations of state are further modified in
     </figure>
      <!-- Image 2 with caption -->
     <figure style="text-align: center; margin: 0;">
-      <img src="{{ site.baseurl }}/assets/images/research/photo.jpg" alt="ncg" 
+      <img src="{{ site.baseurl }}/assets/images/research/nobel.jpg" alt="ncg" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
-        ...
+        Anna and Aneta are looking for the quantum gravity corrections in the Nobel Instutute in Oslo, Norway.
+      </figcaption>
+    </figure>
+      <!-- Image 3 with caption -->
+    <figure style="text-align: center; margin: 0;">
+      <img src="{{ site.baseurl }}/assets/images/research/eotvos.jpg" alt="ncg" 
+           style="width: 150px; height: auto; object-fit: contain;">
+      <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
+        Anna, Gergely, and Aneta are having fun with the Eotvos balance in the Wigner Instutite in Budapest, Hungary (actually, they are freezing in the Low Radiation Laboratory).
       </figcaption>
     </figure>
   </div>
