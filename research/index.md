@@ -222,7 +222,7 @@ Finally, thermodynamic quantities and equations of state are further modified in
       <img src="{{ site.baseurl }}/assets/images/research/eotvos.jpg" alt="ncg" 
            style="width: 150px; height: auto; object-fit: contain;">
       <figcaption style="font-family: 'Arial', sans-serif; font-size: 0.7em; color: #555; margin-top: 5px;">
-        Anna, Gergely, and Aneta are having fun with the Eotvos balance in the Wigner Instutite in Budapest, Hungary (actually, they are freezing in the Low Radiation Laboratory).
+       Anna, Gergely, and Aneta are enjoying their time with the Eötvös balance in the Low Radiation Laboratory at the Wigner Institute in Budapest, Hungary (though in reality, they are freezing—don’t be deceived by their happy faces!)
       </figcaption>
     </figure>
   </div>
