@@ -99,16 +99,13 @@ title: "Research"
 
 <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
   Theoretical models of thermonuclear processes within stellar interiors experience significant alterations under MG, impacting energy generation rates 
-  (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.201101" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.044020" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.024025" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://link.springer.com/article/10.1140/epjc/s10052-019-7560-3" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>). 
-  Some gravity models suggest a dependence of particle interactions on local energy-momentum distributions 
-  (<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.044037" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>). 
-  Moreover, quantities such as specific heat capacities, Debye temperatures, and crystallization dynamics in white dwarfs are influenced by the gravitational model 
-  (<a href="https://www.sciencedirect.com/science/article/pii/S0370269318301898?via%3Dihub" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044072" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>).
-</p>
+  (see those papers: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.201101" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">paper1</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.044020" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">paper2</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.024025" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">paper3</a>, 
+  <a href="https://link.springer.com/article/10.1140/epjc/s10052-019-7560-3" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">paper4</a>). 
+  Some gravity models suggest a dependence of particle interactions on <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.044037" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">local energy-momentum distributions</a>. 
+  Moreover, quantities such as <a href="https://www.sciencedirect.com/science/article/pii/S0370269324000522?via%3Dihub" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">specific heat capacities, Debye temperatures</a>, and  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044072" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">crystallization process</a> in white dwarfs are influenced by the gravitational model.
+</p>  
 
 <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
   Chemical reaction rates are also affected by MG 
