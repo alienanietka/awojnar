@@ -88,41 +88,41 @@ title: "Research"
       <a href=" https://link.springer.com/article/10.1140/epjc/s10052-023-11659-9" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">challenging</a>
       common approaches to solving the “cosmological lithium problem.” 
     </p>
-    <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Thermodynamics and gravity</h3>
-    <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
-    <p>
-The consistency of equations in Modified Gravity (MG) has been questioned due to numerous findings from prior research. For example, the chemical potential's dependence on gravity suggests that changes in the description of gravitational fields may have <a href="https://link.springer.com/article/10.1007/BF00674065" target="_blank">significant effects</a>. 
-MG has been shown to alter the geodesic deviation equation on stellar surfaces, introducing <a href="https://dx.doi.org/10.1103/PhysRevD.89.064001" target="_blank">corrections</a> resembling Hooke’s law in the polytropic equation of state. 
-Furthermore, microscopic quantities such as opacity exhibit modifications, providing the so-called <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.124045" target="_blank">effective quantities</a>. 
-Corrections to <a href="https://link.springer.com/article/10.1140/epjc/s10052-016-4549-z" target="_blank">thermodynamic laws</a>, stellar stability criteria (check out <a href="https://link.springer.com/article/10.1140/epjc/s10052-018-5900-3" target="_blank">here</a> and <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.024028" target="_blank">here</a>), and <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044025" target="_blank">properties of Fermi gases</a> are also evident.
+  ```html
+<h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Thermodynamics and Gravity</h3>
+<p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
+  The consistency of equations in Modified Gravity (MG) has been called into question based on findings from previous research. For instance, the chemical potential’s relationship with gravity suggests that changes in gravitational field descriptions may have <a href="https://link.springer.com/article/10.1007/BF00674065" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">substantial impacts</a>. 
+  MG has also been shown to affect the geodesic deviation equation on stellar surfaces, introducing <a href="https://dx.doi.org/10.1103/PhysRevD.89.064001" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">adjustments</a> resembling Hooke’s law within the polytropic equation of state. 
+  Additionally, microscopic properties like opacity undergo changes, leading to the emergence of <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.124045" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">effective quantities</a>. 
+  Corrections to <a href="https://link.springer.com/article/10.1140/epjc/s10052-016-4549-z" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">thermodynamic laws</a>, stability criteria for stars (see <a href="https://link.springer.com/article/10.1140/epjc/s10052-018-5900-3" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">this source</a> and <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.024028" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">this one</a>), and <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044025" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">properties of Fermi gases</a> have also been identified.
 </p>
 
-<p>
-Theoretical descriptions of thermonuclear processes within stellar interiors undergo significant changes under MG, impacting energy generation rates 
-(<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.201101" target="_blank">source</a>, 
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.044020" target="_blank">source</a>, 
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.024025" target="_blank">source</a>, 
-<a href="https://link.springer.com/article/10.1140/epjc/s10052-019-7560-3" target="_blank">source</a>). 
-Some gravity models introduce a dependence of elementary particle interactions on local energy-momentum distributions 
-(<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.044037" target="_blank">source</a>). 
-Additionally, the specific heats, Debye temperatures, and crystallization processes in white dwarfs are influenced by the gravitational model 
-(<a href="https://www.sciencedirect.com/science/article/pii/S0370269318301898?via%3Dihub" target="_blank">source</a>, 
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044072" target="_blank">source</a>).
+<p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
+  Theoretical models of thermonuclear processes within stellar interiors experience significant alterations under MG, impacting energy generation rates 
+  (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.201101" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.044020" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.024025" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://link.springer.com/article/10.1140/epjc/s10052-019-7560-3" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>). 
+  Some gravity models suggest a dependence of particle interactions on local energy-momentum distributions 
+  (<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.044037" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>). 
+  Moreover, quantities such as specific heat capacities, Debye temperatures, and crystallization dynamics in white dwarfs are influenced by the gravitational model 
+  (<a href="https://www.sciencedirect.com/science/article/pii/S0370269318301898?via%3Dihub" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.044072" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>).
 </p>
 
-<p>
-Chemical reaction rates also vary under MG 
-(<a href="https://www.sciencedirect.com/science/article/pii/S0370269324000522?via%3Dihub" target="_blank">source</a>), 
-as do the equations of state in curved spacetime for degenerate stars, where metric components affect chemical potentials and temperatures 
-(<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2090/1/012034" target="_blank">source</a>, 
-<a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/02/026" target="_blank">source</a>, 
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.123005" target="_blank">source</a>, 
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.083021" target="_blank">source</a>). 
-Finally, thermodynamic quantities and equations of state are further modified in the presence of (pseudo-)scalar fields, such as axions 
-(<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.066126" target="_blank">source</a>, 
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.095038" target="_blank">source</a>).
+<p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
+  Chemical reaction rates are also affected by MG 
+  (<a href="https://www.sciencedirect.com/science/article/pii/S0370269324000522?via%3Dihub" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>), 
+  as are equations of state in curved spacetime for degenerate stars, where metric components influence chemical potentials and temperature profiles 
+  (<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2090/1/012034" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/02/026" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.123005" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.083021" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>). 
+  Finally, thermodynamic properties and equations of state are further altered by the presence of (pseudo-)scalar fields, including axions 
+  (<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.066126" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.095038" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>).
 </p>
-    </p>
+```
   </div>
 
   
