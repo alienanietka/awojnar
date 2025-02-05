@@ -1,20 +1,11 @@
 /* Zmienne CSS dla lepszej spójności i łatwej modyfikacji */
 :root {
-  --color-primary: #1e90ff;
-  --color-secondary: #333;
-  --color-text: #555;
-  --color-border: #ccc;
-  --color-muted: #888;
-
-  --font-family: 'Arial', sans-serif;
-  --font-size-base: 16px;
-  --font-size-heading: 1.5em;
-  --font-size-small: 0.75rem;
-
+  --color-primary: #1e90ff; /* Niebieskie tło */
+  --color-secondary: #333; /* Kolor nagłówków */
+  --color-text: #555; /* Kolor tekstu */
+  --color-muted: #888; /* Przyciszony tekst */
   --border-radius: 8px;
   --padding: 10px;
-  --margin: 20px;
-
   --transition-duration: 0.3s;
 }
 
