@@ -88,7 +88,7 @@ title: "Research"
       <a href=" https://link.springer.com/article/10.1140/epjc/s10052-023-11659-9" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">challenging</a>
       common approaches to solving the “cosmological lithium problem.” 
     </p>
-  ```html
+
 <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5em; font-weight: bold; color: #333; margin-top: 30px;">Thermodynamics and Gravity</h3>
 <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
   The consistency of equations in Modified Gravity (MG) has been called into question based on findings from previous research. For instance, the chemical potential’s relationship with gravity suggests that changes in gravitational field descriptions may have <a href="https://link.springer.com/article/10.1007/BF00674065" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">substantial impacts</a>. 
@@ -122,7 +122,6 @@ title: "Research"
   (<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.066126" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
   <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.095038" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>).
 </p>
-```
   </div>
 
   
