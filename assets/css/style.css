@@ -1,145 +1,77 @@
-/* Zmienne CSS dla lepszej spójności i łatwej modyfikacji */
-:root {
-  --color-primary: #1e90ff; /* Niebieskie tło */
-  --color-secondary: #333; /* Kolor nagłówków */
-  --color-text: #555; /* Kolor tekstu */
-  --color-muted: #888; /* Przyciszony tekst */
-  --border-radius: 8px;
-  --padding: 10px;
-  --transition-duration: 0.3s;
-}
-
 /* Styl dla kontenera na zakładki */
 nav ul {
   display: flex;
-  justify-content: space-around;
-  list-style: none;
+  justify-content: space-around;  /* Rozstawia zakładki równomiernie */
+  list-style-type: none;  /* Usuwa domyślną listę punktowaną */
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: var(--color-primary); /* Kolor tła nawigacji */
-  border-radius: var(--border-radius);
 }
 
 nav ul li {
   text-align: center;
-  flex: 1;
 }
 
 nav a {
   display: block;
-  padding: var(--padding);
+  padding: 10px 20px;
   text-decoration: none;
-  color: white; /* Ustawienie koloru tekstu */
-  font-size: var(--font-size-base);
+  color: inherit;
+  font-size: 16px;
   font-weight: bold;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  transition: background-color var(--transition-duration), color var(--transition-duration);
-}
-
-nav a:hover {
-  background-color: rgba(255, 255, 255, 0.2); /* Subtelny efekt hover */
-  color: white; /* Kolor tekstu podczas najechania */
 }
 
 /* Responsywność - zmienia układ na kolumnowy na mniejszych ekranach */
 @media (max-width: 768px) {
   nav ul {
     flex-direction: column;
-    background-color: var(--color-primary); /* Kolor tła dla mobilnych */
   }
 
   nav ul li {
     width: 100%;
   }
-
-  nav a {
-    background-color: transparent;
-    color: white;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  }
 }
 
-
-/* Ukrywanie banera */
 #forkme_banner {
   display: none;
 }
 
-/* Styl dla stopki */
 #footer_wrap {
-  margin: 25px 0;
+  margin: 25px 0px;
   width: 100%;
   text-align: center;
-  font-size: var(--font-size-small);
-  color: var(--color-muted);
+  font-size: 0.75rem;
 }
 
-/* Styl dla kontenera wiadomości */
+
 .news-container {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  margin: var(--margin);
-  border: 1px solid var(--color-border);
-  padding: var(--padding);
-  border-radius: var(--border-radius);
-  background-color: white;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform var(--transition-duration), box-shadow var(--transition-duration);
+display: flex;
+align-items: flex-start;
+margin: 20px;
+border: 1px solid #ccc;
+padding: 10px;
+border-radius: 8px;
 }
-
-.news-container:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-}
-
-/* Styl dla obrazków wiadomości */
 .news-image {
-  margin-bottom: var(--margin);
-  flex-shrink: 0;
-  max-width: 100%;
-  text-align: center;
+margin-right: 20px;
 }
-
 .news-image img {
-  max-width: 100%;
-  border-radius: var(--border-radius);
+max-width: 300px;
+border-radius: 8px;
 }
-
-/* Styl dla treści wiadomości */
 .news-content {
-  flex: 1;
 }
-
 .news-title {
-  font-size: var(--font-size-heading);
-  margin-bottom: 10px;
-  color: var(--color-secondary);
+font-size: 1.5em;
+margin-bottom: 10px;
 }
-
 .news-date {
-  color: var(--color-muted);
-  margin-bottom: 10px;
-  font-style: italic;
+color: #888;
+margin-bottom: 10px;
 }
-
 .news-text {
-  font-size: var(--font-size-base);
-  color: var(--color-text);
-}
-
-/* Responsywność dla wiadomości */
-@media (min-width: 768px) {
-  .news-container {
-    flex-direction: row;
-  }
-
-  .news-image {
-    margin-right: var(--margin);
-    margin-bottom: 0;
-    max-width: 300px;
-  }
+font-size: 1em;
 }
