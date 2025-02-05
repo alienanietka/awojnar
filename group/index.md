@@ -128,6 +128,26 @@ title: "Group"
 
 <!-- Member 3 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
+  <img src="{{ site.baseurl }}/assets/images/group/sofia.jpg" alt="Sofía Vidal" 
+       style="width: 120px; height: 160px; object-fit: cover; object-position: top 25%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div>
+    <p style="font-family: 'Georgia', serif; font-size: 1.3em; margin: 0; font-weight: bold; color: #333;">
+      Sofía Vidal
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      <em>PhD Thesis:</em> Compact Objects and Gravitational Waves in Modified Gravity
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+    Sofía Vidal is a <strong>PhD student</strong> at the <strong>University of Tartu, Estonia</strong>, working under the supervision of <strong><a href="https://inspirehep.net/authors/1004463?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Laur Järv</a></strong> and <strong>Aneta Wojnar</strong>. Her work focuses on the astrophysical implications of modified gravity theories, in particular <strong>scalar-tensor theories</strong>, on compact objects as well as <strong>gravitational wave physics</strong>. Her research interests include the physics of <strong>white dwarfs</strong> and <strong>neutron stars</strong>.
+    </p>
+    <p style="font-family: 'Georgia', serif; font-size: 1.1em; color: #555;">
+      For more information on her publications, visit her <a href="https://inspirehep.net/authors/2574814?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">INSPIRE profile</a>.
+    </p>
+  </div>
+</div>
+
+<!-- Member 4 -->
+<div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
   <img src="{{ site.baseurl }}/assets/images/group/grzesiek.jpg" alt="Grzegorz Dziewisz" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div>
@@ -147,7 +167,7 @@ title: "Group"
   </div>
 </div>
 
-<!-- Member 4 -->
+<!-- Member 5 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
   <img src="{{ site.baseurl }}/assets/images/group/domi.jpg" alt="Dominika Klag" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
@@ -169,7 +189,7 @@ title: "Group"
 </div>
 
 
-<!-- Member 5 -->
+<!-- Member 6 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
   <img src="{{ site.baseurl }}/assets/images/group/mar.jpeg" alt="Marcin Klinkosz" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
@@ -191,7 +211,7 @@ title: "Group"
 </div>
 
 
-<!-- Member 6 -->
+<!-- Member 7 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
   <img src="{{ site.baseurl }}/assets/images/group/seba.jpeg" alt="Sebastian Marczyński" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
@@ -215,7 +235,7 @@ title: "Group"
 
 
 
-<!-- Member 7 -->
+<!-- Member 8 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
   <img src="{{ site.baseurl }}/assets/images/group/dr.jpg" alt="Dhrubajyoti Rakshit" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
@@ -235,7 +255,7 @@ title: "Group"
   </div>
 </div>
 
-<!-- Member 8 -->
+<!-- Member 9 -->
 <div style="display: flex; align-items: center; gap: 20px; text-align: justify; line-height: 1.6;">
   <img src="{{ site.baseurl }}/assets/images/group/andrz.jpg" alt="Andrzej Szczęśniak" 
        style="width: 120px; height: 160px; object-fit: cover; object-position: top 10%; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
