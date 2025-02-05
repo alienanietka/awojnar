@@ -108,16 +108,13 @@ title: "Research"
 </p>  
 
 <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555; line-height: 1.6; text-align: justify;">
-  Chemical reaction rates are also affected by MG 
-  (<a href="https://www.sciencedirect.com/science/article/pii/S0370269324000522?via%3Dihub" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>), 
+  <a href="https://www.sciencedirect.com/science/article/pii/S0370269324000522?via%3Dihub" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Chemical reaction rates</a> are also affected by MG, 
   as are equations of state in curved spacetime for degenerate stars, where metric components influence chemical potentials and temperature profiles 
-  (<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2090/1/012034" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/02/026" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.123005" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.083021" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>). 
-  Finally, thermodynamic properties and equations of state are further altered by the presence of (pseudo-)scalar fields, including axions 
-  (<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.066126" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>, 
-  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.095038" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">source</a>).
+  (soo, e.g. [<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2090/1/012034" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">1</a>, 
+  <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/02/026" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">2</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.123005" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">3</a>, 
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.083021" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">4</a>]). 
+  Finally, thermodynamic properties and equations of state are further altered by the presence of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.066126" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">(pseudo-)scalar fields</a>, including <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.095038" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">axions</a>.
 </p>
   </div>
 
