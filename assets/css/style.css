@@ -26,7 +26,7 @@ nav ul {
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: var(--color-primary);
+  background-color: var(--color-primary); /* Kolor tła nawigacji */
   border-radius: var(--border-radius);
 }
 
@@ -39,25 +39,25 @@ nav a {
   display: block;
   padding: var(--padding);
   text-decoration: none;
-  color: white;
+  color: white; /* Ustawienie koloru tekstu */
   font-size: var(--font-size-base);
   font-weight: bold;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  transition: background-color var(--transition-duration);
+  transition: background-color var(--transition-duration), color var(--transition-duration);
 }
 
 nav a:hover {
-  background-color: rgba(255, 255, 255, 0.2);
-  color: white;
+  background-color: rgba(255, 255, 255, 0.2); /* Subtelny efekt hover */
+  color: white; /* Kolor tekstu podczas najechania */
 }
 
 /* Responsywność - zmienia układ na kolumnowy na mniejszych ekranach */
 @media (max-width: 768px) {
   nav ul {
     flex-direction: column;
-    background-color: transparent;
+    background-color: var(--color-primary); /* Kolor tła dla mobilnych */
   }
 
   nav ul li {
@@ -65,11 +65,12 @@ nav a:hover {
   }
 
   nav a {
-    background-color: var(--color-primary);
+    background-color: transparent;
     color: white;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   }
 }
+
 
 /* Ukrywanie banera */
 #forkme_banner {
