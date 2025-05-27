@@ -91,6 +91,10 @@ title: "Aneta Wojnar - Homepage"
     <p style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; margin-bottom: 40px;">
       My <a href="https://inspirehep.net/authors/1421102?ui-citation-summary=true" target="_blank" style="color: #1e90ff; text-decoration: none; font-weight: bold;">updated list of publications</a> can be found on Inspire.
     </p>
+
+     <p style="font-family: 'Georgia', serif; font-size: 0.5em; line-height: 1.6; margin-bottom: 20px;">
+      (fot. Paweł Piotrowski/Uniwersytet Wrocławski)
+    </p>
   </div>
 </div>
 
