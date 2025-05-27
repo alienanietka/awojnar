@@ -60,7 +60,7 @@ title: "Aneta Wojnar - Homepage"
 <div style="display: flex; justify-content: center; align-items: center; gap: 5%; margin-top: 20px; flex-wrap: wrap;">
   <!-- Left Column: Your photo -->
   <div style="flex: 0 0 300px; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img src="assets/images/A.png" alt="Your photo" style="width: 100%; max-width: 300px; border-radius: 50%; margin: 20px 0;">
+    <img src="assets/images/Aneta Wojnar - fot. Paweł Piotrowski-112.jpg" alt="Your photo" style="width: 100%; max-width: 300px; border-radius: 50%; margin: 20px 0;">
   </div>
 
   <!-- Right Column: Description -->
